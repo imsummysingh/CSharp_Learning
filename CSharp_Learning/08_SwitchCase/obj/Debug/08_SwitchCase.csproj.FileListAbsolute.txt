@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\08_SwitchCase\obj\Debug\08_SwitchCase.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\08_SwitchCase\bin\Debug\08_SwitchCase.exe.config
+C:\CSharp_Learning\CSharp_Learning\08_SwitchCase\bin\Debug\08_SwitchCase.exe
+C:\CSharp_Learning\CSharp_Learning\08_SwitchCase\bin\Debug\08_SwitchCase.pdb
+C:\CSharp_Learning\CSharp_Learning\08_SwitchCase\obj\Debug\08_SwitchCase.exe
+C:\CSharp_Learning\CSharp_Learning\08_SwitchCase\obj\Debug\08_SwitchCase.pdb

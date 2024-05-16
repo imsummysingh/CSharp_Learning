@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\09_WhileLoop\obj\Debug\09_WhileLoop.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\09_WhileLoop\bin\Debug\09_WhileLoop.exe.config
+C:\CSharp_Learning\CSharp_Learning\09_WhileLoop\bin\Debug\09_WhileLoop.exe
+C:\CSharp_Learning\CSharp_Learning\09_WhileLoop\bin\Debug\09_WhileLoop.pdb
+C:\CSharp_Learning\CSharp_Learning\09_WhileLoop\obj\Debug\09_WhileLoop.exe
+C:\CSharp_Learning\CSharp_Learning\09_WhileLoop\obj\Debug\09_WhileLoop.pdb

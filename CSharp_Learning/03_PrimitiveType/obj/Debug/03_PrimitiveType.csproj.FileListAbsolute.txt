@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\03_PrimitiveType\bin\Debug\03_PrimitiveType.exe.config
+C:\CSharp_Learning\CSharp_Learning\03_PrimitiveType\bin\Debug\03_PrimitiveType.exe
+C:\CSharp_Learning\CSharp_Learning\03_PrimitiveType\bin\Debug\03_PrimitiveType.pdb
+C:\CSharp_Learning\CSharp_Learning\03_PrimitiveType\obj\Debug\03_PrimitiveType.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\03_PrimitiveType\obj\Debug\03_PrimitiveType.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\03_PrimitiveType\obj\Debug\03_PrimitiveType.exe
+C:\CSharp_Learning\CSharp_Learning\03_PrimitiveType\obj\Debug\03_PrimitiveType.pdb

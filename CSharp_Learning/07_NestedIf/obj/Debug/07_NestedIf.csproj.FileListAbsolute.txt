@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\07_NestedIf\bin\Debug\07_NestedIf.exe.config
+C:\CSharp_Learning\CSharp_Learning\07_NestedIf\bin\Debug\07_NestedIf.exe
+C:\CSharp_Learning\CSharp_Learning\07_NestedIf\bin\Debug\07_NestedIf.pdb
+C:\CSharp_Learning\CSharp_Learning\07_NestedIf\obj\Debug\07_NestedIf.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\07_NestedIf\obj\Debug\07_NestedIf.exe
+C:\CSharp_Learning\CSharp_Learning\07_NestedIf\obj\Debug\07_NestedIf.pdb

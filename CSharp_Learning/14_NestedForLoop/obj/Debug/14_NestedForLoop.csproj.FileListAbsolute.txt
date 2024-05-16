@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\14_NestedForLoop\bin\Debug\14_NestedForLoop.exe.config
+C:\CSharp_Learning\CSharp_Learning\14_NestedForLoop\bin\Debug\14_NestedForLoop.exe
+C:\CSharp_Learning\CSharp_Learning\14_NestedForLoop\bin\Debug\14_NestedForLoop.pdb
+C:\CSharp_Learning\CSharp_Learning\14_NestedForLoop\obj\Debug\14_NestedForLoop.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\14_NestedForLoop\obj\Debug\14_NestedForLoop.exe
+C:\CSharp_Learning\CSharp_Learning\14_NestedForLoop\obj\Debug\14_NestedForLoop.pdb
