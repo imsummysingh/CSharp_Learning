@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\21_DefaultParameter\bin\Debug\21_DefaultParameter.exe.config
+C:\CSharp_Learning\CSharp_Learning\21_DefaultParameter\bin\Debug\21_DefaultParameter.exe
+C:\CSharp_Learning\CSharp_Learning\21_DefaultParameter\bin\Debug\21_DefaultParameter.pdb
+C:\CSharp_Learning\CSharp_Learning\21_DefaultParameter\obj\Debug\21_DefaultParameter.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\21_DefaultParameter\obj\Debug\21_DefaultParameter.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\21_DefaultParameter\obj\Debug\21_DefaultParameter.exe
+C:\CSharp_Learning\CSharp_Learning\21_DefaultParameter\obj\Debug\21_DefaultParameter.pdb

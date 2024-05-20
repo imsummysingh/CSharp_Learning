@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\24_DefaultModifier\bin\Debug\24_DefaultModifier.exe.config
+C:\CSharp_Learning\CSharp_Learning\24_DefaultModifier\bin\Debug\24_DefaultModifier.exe
+C:\CSharp_Learning\CSharp_Learning\24_DefaultModifier\bin\Debug\24_DefaultModifier.pdb
+C:\CSharp_Learning\CSharp_Learning\24_DefaultModifier\obj\Debug\24_DefaultModifier.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\24_DefaultModifier\obj\Debug\24_DefaultModifier.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\24_DefaultModifier\obj\Debug\24_DefaultModifier.exe
+C:\CSharp_Learning\CSharp_Learning\24_DefaultModifier\obj\Debug\24_DefaultModifier.pdb

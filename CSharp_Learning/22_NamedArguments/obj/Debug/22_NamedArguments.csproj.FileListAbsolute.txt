@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\22_NamedArguments\bin\Debug\22_NamedArguments.exe.config
+C:\CSharp_Learning\CSharp_Learning\22_NamedArguments\bin\Debug\22_NamedArguments.exe
+C:\CSharp_Learning\CSharp_Learning\22_NamedArguments\bin\Debug\22_NamedArguments.pdb
+C:\CSharp_Learning\CSharp_Learning\22_NamedArguments\obj\Debug\22_NamedArguments.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\22_NamedArguments\obj\Debug\22_NamedArguments.exe
+C:\CSharp_Learning\CSharp_Learning\22_NamedArguments\obj\Debug\22_NamedArguments.pdb
