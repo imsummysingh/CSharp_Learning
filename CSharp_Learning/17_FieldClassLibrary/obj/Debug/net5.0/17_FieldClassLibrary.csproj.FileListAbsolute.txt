@@ -1,0 +1,12 @@
+C:\CSharp_Learning\CSharp_Learning\17_FieldClassLibrary\bin\Debug\net5.0\17_FieldClassLibrary.deps.json
+C:\CSharp_Learning\CSharp_Learning\17_FieldClassLibrary\bin\Debug\net5.0\17_FieldClassLibrary.dll
+C:\CSharp_Learning\CSharp_Learning\17_FieldClassLibrary\bin\Debug\net5.0\ref\17_FieldClassLibrary.dll
+C:\CSharp_Learning\CSharp_Learning\17_FieldClassLibrary\bin\Debug\net5.0\17_FieldClassLibrary.pdb
+C:\CSharp_Learning\CSharp_Learning\17_FieldClassLibrary\obj\Debug\net5.0\17_FieldClassLibrary.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\17_FieldClassLibrary\obj\Debug\net5.0\17_FieldClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Learning\CSharp_Learning\17_FieldClassLibrary\obj\Debug\net5.0\17_FieldClassLibrary.AssemblyInfoInputs.cache
+C:\CSharp_Learning\CSharp_Learning\17_FieldClassLibrary\obj\Debug\net5.0\17_FieldClassLibrary.AssemblyInfo.cs
+C:\CSharp_Learning\CSharp_Learning\17_FieldClassLibrary\obj\Debug\net5.0\17_FieldClassLibrary.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\17_FieldClassLibrary\obj\Debug\net5.0\17_FieldClassLibrary.dll
+C:\CSharp_Learning\CSharp_Learning\17_FieldClassLibrary\obj\Debug\net5.0\ref\17_FieldClassLibrary.dll
+C:\CSharp_Learning\CSharp_Learning\17_FieldClassLibrary\obj\Debug\net5.0\17_FieldClassLibrary.pdb

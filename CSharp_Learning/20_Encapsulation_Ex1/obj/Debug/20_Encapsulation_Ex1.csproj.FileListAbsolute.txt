@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\20_Encapsulation_Ex1\bin\Debug\20_Encapsulation_Ex1.exe.config
+C:\CSharp_Learning\CSharp_Learning\20_Encapsulation_Ex1\bin\Debug\20_Encapsulation_Ex1.exe
+C:\CSharp_Learning\CSharp_Learning\20_Encapsulation_Ex1\bin\Debug\20_Encapsulation_Ex1.pdb
+C:\CSharp_Learning\CSharp_Learning\20_Encapsulation_Ex1\obj\Debug\20_Encapsulation_Ex1.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\20_Encapsulation_Ex1\obj\Debug\20_Encapsulation_Ex1.exe
+C:\CSharp_Learning\CSharp_Learning\20_Encapsulation_Ex1\obj\Debug\20_Encapsulation_Ex1.pdb

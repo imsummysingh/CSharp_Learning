@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\17_FieldClassLibraryExample\bin\Debug\17_FieldClassLibraryExample.dll
+C:\CSharp_Learning\CSharp_Learning\17_FieldClassLibraryExample\bin\Debug\17_FieldClassLibraryExample.pdb
+C:\CSharp_Learning\CSharp_Learning\17_FieldClassLibraryExample\obj\Debug\17_FieldClassLibraryExample.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\17_FieldClassLibraryExample\obj\Debug\17_FieldClassLibraryExample.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\17_FieldClassLibraryExample\obj\Debug\17_FieldClassLibraryExample.dll
+C:\CSharp_Learning\CSharp_Learning\17_FieldClassLibraryExample\obj\Debug\17_FieldClassLibraryExample.pdb

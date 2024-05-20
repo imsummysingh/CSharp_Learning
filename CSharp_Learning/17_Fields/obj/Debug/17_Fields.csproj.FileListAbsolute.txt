@@ -1,0 +1,10 @@
+C:\CSharp_Learning\CSharp_Learning\17_Fields\bin\Debug\17_Fields.exe.config
+C:\CSharp_Learning\CSharp_Learning\17_Fields\bin\Debug\17_Fields.exe
+C:\CSharp_Learning\CSharp_Learning\17_Fields\bin\Debug\17_Fields.pdb
+C:\CSharp_Learning\CSharp_Learning\17_Fields\bin\Debug\17_FieldClassLibraryExample.dll
+C:\CSharp_Learning\CSharp_Learning\17_Fields\bin\Debug\17_FieldClassLibraryExample.pdb
+C:\CSharp_Learning\CSharp_Learning\17_Fields\obj\Debug\17_Fields.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\17_Fields\obj\Debug\17_Fields.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\17_Fields\obj\Debug\17_Fields.csproj.CopyComplete
+C:\CSharp_Learning\CSharp_Learning\17_Fields\obj\Debug\17_Fields.exe
+C:\CSharp_Learning\CSharp_Learning\17_Fields\obj\Debug\17_Fields.pdb

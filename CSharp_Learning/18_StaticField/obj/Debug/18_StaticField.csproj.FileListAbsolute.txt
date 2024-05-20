@@ -1,0 +1,10 @@
+C:\CSharp_Learning\CSharp_Learning\18_StaticField\bin\Debug\18_StaticField.exe.config
+C:\CSharp_Learning\CSharp_Learning\18_StaticField\bin\Debug\18_StaticField.exe
+C:\CSharp_Learning\CSharp_Learning\18_StaticField\bin\Debug\18_StaticField.pdb
+C:\CSharp_Learning\CSharp_Learning\18_StaticField\bin\Debug\18_StaticFieldLibrary.dll
+C:\CSharp_Learning\CSharp_Learning\18_StaticField\bin\Debug\18_StaticFieldLibrary.pdb
+C:\CSharp_Learning\CSharp_Learning\18_StaticField\obj\Debug\18_StaticField.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\18_StaticField\obj\Debug\18_StaticField.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\18_StaticField\obj\Debug\18_StaticField.csproj.CopyComplete
+C:\CSharp_Learning\CSharp_Learning\18_StaticField\obj\Debug\18_StaticField.exe
+C:\CSharp_Learning\CSharp_Learning\18_StaticField\obj\Debug\18_StaticField.pdb
