@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\33_Recursion\bin\Debug\33_Recursion.exe.config
+C:\CSharp_Learning\CSharp_Learning\33_Recursion\bin\Debug\33_Recursion.exe
+C:\CSharp_Learning\CSharp_Learning\33_Recursion\bin\Debug\33_Recursion.pdb
+C:\CSharp_Learning\CSharp_Learning\33_Recursion\obj\Debug\33_Recursion.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\33_Recursion\obj\Debug\33_Recursion.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\33_Recursion\obj\Debug\33_Recursion.exe
+C:\CSharp_Learning\CSharp_Learning\33_Recursion\obj\Debug\33_Recursion.pdb

@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\28_inParameterModifier\bin\Debug\28_inParameterModifier.exe.config
+C:\CSharp_Learning\CSharp_Learning\28_inParameterModifier\bin\Debug\28_inParameterModifier.exe
+C:\CSharp_Learning\CSharp_Learning\28_inParameterModifier\bin\Debug\28_inParameterModifier.pdb
+C:\CSharp_Learning\CSharp_Learning\28_inParameterModifier\obj\Debug\28_inParameterModifier.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\28_inParameterModifier\obj\Debug\28_inParameterModifier.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\28_inParameterModifier\obj\Debug\28_inParameterModifier.exe
+C:\CSharp_Learning\CSharp_Learning\28_inParameterModifier\obj\Debug\28_inParameterModifier.pdb

@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\27_outVariableDeclaration\bin\Debug\27_outVariableDeclaration.exe.config
+C:\CSharp_Learning\CSharp_Learning\27_outVariableDeclaration\bin\Debug\27_outVariableDeclaration.exe
+C:\CSharp_Learning\CSharp_Learning\27_outVariableDeclaration\bin\Debug\27_outVariableDeclaration.pdb
+C:\CSharp_Learning\CSharp_Learning\27_outVariableDeclaration\obj\Debug\27_outVariableDeclaration.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\27_outVariableDeclaration\obj\Debug\27_outVariableDeclaration.exe
+C:\CSharp_Learning\CSharp_Learning\27_outVariableDeclaration\obj\Debug\27_outVariableDeclaration.pdb

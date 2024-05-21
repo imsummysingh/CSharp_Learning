@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\31_LocalFunctions\bin\Debug\31_LocalFunctions.exe.config
+C:\CSharp_Learning\CSharp_Learning\31_LocalFunctions\bin\Debug\31_LocalFunctions.exe
+C:\CSharp_Learning\CSharp_Learning\31_LocalFunctions\bin\Debug\31_LocalFunctions.pdb
+C:\CSharp_Learning\CSharp_Learning\31_LocalFunctions\obj\Debug\31_LocalFunctions.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\31_LocalFunctions\obj\Debug\31_LocalFunctions.exe
+C:\CSharp_Learning\CSharp_Learning\31_LocalFunctions\obj\Debug\31_LocalFunctions.pdb

@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\26_outModifier\bin\Debug\26_outModifier.exe.config
+C:\CSharp_Learning\CSharp_Learning\26_outModifier\bin\Debug\26_outModifier.exe
+C:\CSharp_Learning\CSharp_Learning\26_outModifier\bin\Debug\26_outModifier.pdb
+C:\CSharp_Learning\CSharp_Learning\26_outModifier\obj\Debug\26_outModifier.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\26_outModifier\obj\Debug\26_outModifier.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\26_outModifier\obj\Debug\26_outModifier.exe
+C:\CSharp_Learning\CSharp_Learning\26_outModifier\obj\Debug\26_outModifier.pdb

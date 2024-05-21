@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\30_paramasExample\bin\Debug\30_paramasExample.exe.config
+C:\CSharp_Learning\CSharp_Learning\30_paramasExample\bin\Debug\30_paramasExample.exe
+C:\CSharp_Learning\CSharp_Learning\30_paramasExample\bin\Debug\30_paramasExample.pdb
+C:\CSharp_Learning\CSharp_Learning\30_paramasExample\obj\Debug\30_paramasExample.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\30_paramasExample\obj\Debug\30_paramasExample.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\30_paramasExample\obj\Debug\30_paramasExample.exe
+C:\CSharp_Learning\CSharp_Learning\30_paramasExample\obj\Debug\30_paramasExample.pdb
