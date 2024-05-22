@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\35_Parsing\bin\Debug\35_Parsing.exe.config
+C:\CSharp_Learning\CSharp_Learning\35_Parsing\bin\Debug\35_Parsing.exe
+C:\CSharp_Learning\CSharp_Learning\35_Parsing\bin\Debug\35_Parsing.pdb
+C:\CSharp_Learning\CSharp_Learning\35_Parsing\obj\Debug\35_Parsing.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\35_Parsing\obj\Debug\35_Parsing.exe
+C:\CSharp_Learning\CSharp_Learning\35_Parsing\obj\Debug\35_Parsing.pdb

@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\37_ConversionMethod\bin\Debug\37_ConversionMethod.exe.config
+C:\CSharp_Learning\CSharp_Learning\37_ConversionMethod\bin\Debug\37_ConversionMethod.exe
+C:\CSharp_Learning\CSharp_Learning\37_ConversionMethod\bin\Debug\37_ConversionMethod.pdb
+C:\CSharp_Learning\CSharp_Learning\37_ConversionMethod\obj\Debug\37_ConversionMethod.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\37_ConversionMethod\obj\Debug\37_ConversionMethod.exe
+C:\CSharp_Learning\CSharp_Learning\37_ConversionMethod\obj\Debug\37_ConversionMethod.pdb

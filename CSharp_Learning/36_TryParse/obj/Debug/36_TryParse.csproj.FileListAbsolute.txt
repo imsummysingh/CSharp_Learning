@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\36_TryParse\bin\Debug\36_TryParse.exe.config
+C:\CSharp_Learning\CSharp_Learning\36_TryParse\bin\Debug\36_TryParse.exe
+C:\CSharp_Learning\CSharp_Learning\36_TryParse\bin\Debug\36_TryParse.pdb
+C:\CSharp_Learning\CSharp_Learning\36_TryParse\obj\Debug\36_TryParse.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\36_TryParse\obj\Debug\36_TryParse.exe
+C:\CSharp_Learning\CSharp_Learning\36_TryParse\obj\Debug\36_TryParse.pdb

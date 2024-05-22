@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\34_ImplicitConversion\bin\Debug\34_ImplicitConversion.exe.config
+C:\CSharp_Learning\CSharp_Learning\34_ImplicitConversion\bin\Debug\34_ImplicitConversion.exe
+C:\CSharp_Learning\CSharp_Learning\34_ImplicitConversion\bin\Debug\34_ImplicitConversion.pdb
+C:\CSharp_Learning\CSharp_Learning\34_ImplicitConversion\obj\Debug\34_ImplicitConversion.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\34_ImplicitConversion\obj\Debug\34_ImplicitConversion.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\34_ImplicitConversion\obj\Debug\34_ImplicitConversion.exe
+C:\CSharp_Learning\CSharp_Learning\34_ImplicitConversion\obj\Debug\34_ImplicitConversion.pdb
