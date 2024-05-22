@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\38_ConstructorExample\obj\Debug\38_ConstructorExample.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\38_ConstructorExample\obj\Debug\38_ConstructorExample.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\38_ConstructorExample\bin\Debug\38_ConstructorExample.exe.config
+C:\CSharp_Learning\CSharp_Learning\38_ConstructorExample\bin\Debug\38_ConstructorExample.exe
+C:\CSharp_Learning\CSharp_Learning\38_ConstructorExample\bin\Debug\38_ConstructorExample.pdb
+C:\CSharp_Learning\CSharp_Learning\38_ConstructorExample\obj\Debug\38_ConstructorExample.exe
+C:\CSharp_Learning\CSharp_Learning\38_ConstructorExample\obj\Debug\38_ConstructorExample.pdb

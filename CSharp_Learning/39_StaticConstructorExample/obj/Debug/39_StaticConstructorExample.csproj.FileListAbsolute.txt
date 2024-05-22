@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\39_StaticConstructorExample\bin\Debug\39_StaticConstructorExample.exe.config
+C:\CSharp_Learning\CSharp_Learning\39_StaticConstructorExample\bin\Debug\39_StaticConstructorExample.exe
+C:\CSharp_Learning\CSharp_Learning\39_StaticConstructorExample\bin\Debug\39_StaticConstructorExample.pdb
+C:\CSharp_Learning\CSharp_Learning\39_StaticConstructorExample\obj\Debug\39_StaticConstructorExample.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\39_StaticConstructorExample\obj\Debug\39_StaticConstructorExample.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\39_StaticConstructorExample\obj\Debug\39_StaticConstructorExample.exe
+C:\CSharp_Learning\CSharp_Learning\39_StaticConstructorExample\obj\Debug\39_StaticConstructorExample.pdb
