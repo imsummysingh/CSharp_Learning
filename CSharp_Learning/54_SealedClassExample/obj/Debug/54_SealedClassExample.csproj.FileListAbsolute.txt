@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\54_SealedClassExample\bin\Debug\54_SealedClassExample.exe.config
+C:\CSharp_Learning\CSharp_Learning\54_SealedClassExample\bin\Debug\54_SealedClassExample.exe
+C:\CSharp_Learning\CSharp_Learning\54_SealedClassExample\bin\Debug\54_SealedClassExample.pdb
+C:\CSharp_Learning\CSharp_Learning\54_SealedClassExample\obj\Debug\54_SealedClassExample.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\54_SealedClassExample\obj\Debug\54_SealedClassExample.exe
+C:\CSharp_Learning\CSharp_Learning\54_SealedClassExample\obj\Debug\54_SealedClassExample.pdb

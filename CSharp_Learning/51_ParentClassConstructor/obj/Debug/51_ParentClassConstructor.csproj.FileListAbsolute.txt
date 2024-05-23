@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\51_ParentClassConstructor\bin\Debug\51_ParentClassConstructor.exe.config
+C:\CSharp_Learning\CSharp_Learning\51_ParentClassConstructor\bin\Debug\51_ParentClassConstructor.exe
+C:\CSharp_Learning\CSharp_Learning\51_ParentClassConstructor\bin\Debug\51_ParentClassConstructor.pdb
+C:\CSharp_Learning\CSharp_Learning\51_ParentClassConstructor\obj\Debug\51_ParentClassConstructor.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\51_ParentClassConstructor\obj\Debug\51_ParentClassConstructor.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\51_ParentClassConstructor\obj\Debug\51_ParentClassConstructor.exe
+C:\CSharp_Learning\CSharp_Learning\51_ParentClassConstructor\obj\Debug\51_ParentClassConstructor.pdb

@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\50_BaseKeyword\bin\Debug\50_BaseKeyword.exe.config
+C:\CSharp_Learning\CSharp_Learning\50_BaseKeyword\bin\Debug\50_BaseKeyword.exe
+C:\CSharp_Learning\CSharp_Learning\50_BaseKeyword\bin\Debug\50_BaseKeyword.pdb
+C:\CSharp_Learning\CSharp_Learning\50_BaseKeyword\obj\Debug\50_BaseKeyword.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\50_BaseKeyword\obj\Debug\50_BaseKeyword.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\50_BaseKeyword\obj\Debug\50_BaseKeyword.exe
+C:\CSharp_Learning\CSharp_Learning\50_BaseKeyword\obj\Debug\50_BaseKeyword.pdb
