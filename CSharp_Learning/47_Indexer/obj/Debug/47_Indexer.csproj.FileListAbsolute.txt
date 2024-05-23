@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\47_Indexer\bin\Debug\47_Indexer.exe.config
+C:\CSharp_Learning\CSharp_Learning\47_Indexer\bin\Debug\47_Indexer.exe
+C:\CSharp_Learning\CSharp_Learning\47_Indexer\bin\Debug\47_Indexer.pdb
+C:\CSharp_Learning\CSharp_Learning\47_Indexer\obj\Debug\47_Indexer.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\47_Indexer\obj\Debug\47_Indexer.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\47_Indexer\obj\Debug\47_Indexer.exe
+C:\CSharp_Learning\CSharp_Learning\47_Indexer\obj\Debug\47_Indexer.pdb

@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\43_ReadOnlyProperty\bin\Debug\43_ReadOnlyProperty.exe.config
+C:\CSharp_Learning\CSharp_Learning\43_ReadOnlyProperty\bin\Debug\43_ReadOnlyProperty.exe
+C:\CSharp_Learning\CSharp_Learning\43_ReadOnlyProperty\bin\Debug\43_ReadOnlyProperty.pdb
+C:\CSharp_Learning\CSharp_Learning\43_ReadOnlyProperty\obj\Debug\43_ReadOnlyProperty.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\43_ReadOnlyProperty\obj\Debug\43_ReadOnlyProperty.exe
+C:\CSharp_Learning\CSharp_Learning\43_ReadOnlyProperty\obj\Debug\43_ReadOnlyProperty.pdb

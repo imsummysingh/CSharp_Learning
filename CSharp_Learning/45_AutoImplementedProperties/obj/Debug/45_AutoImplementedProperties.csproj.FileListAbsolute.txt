@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\45_AutoImplementedProperties\bin\Debug\45_AutoImplementedProperties.exe.config
+C:\CSharp_Learning\CSharp_Learning\45_AutoImplementedProperties\bin\Debug\45_AutoImplementedProperties.exe
+C:\CSharp_Learning\CSharp_Learning\45_AutoImplementedProperties\bin\Debug\45_AutoImplementedProperties.pdb
+C:\CSharp_Learning\CSharp_Learning\45_AutoImplementedProperties\obj\Debug\45_AutoImplementedProperties.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\45_AutoImplementedProperties\obj\Debug\45_AutoImplementedProperties.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\45_AutoImplementedProperties\obj\Debug\45_AutoImplementedProperties.exe
+C:\CSharp_Learning\CSharp_Learning\45_AutoImplementedProperties\obj\Debug\45_AutoImplementedProperties.pdb

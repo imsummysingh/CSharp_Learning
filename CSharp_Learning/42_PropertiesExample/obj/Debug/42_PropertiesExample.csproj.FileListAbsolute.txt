@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\42_PropertiesExample\bin\Debug\42_PropertiesExample.exe.config
+C:\CSharp_Learning\CSharp_Learning\42_PropertiesExample\bin\Debug\42_PropertiesExample.exe
+C:\CSharp_Learning\CSharp_Learning\42_PropertiesExample\bin\Debug\42_PropertiesExample.pdb
+C:\CSharp_Learning\CSharp_Learning\42_PropertiesExample\obj\Debug\42_PropertiesExample.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\42_PropertiesExample\obj\Debug\42_PropertiesExample.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\42_PropertiesExample\obj\Debug\42_PropertiesExample.exe
+C:\CSharp_Learning\CSharp_Learning\42_PropertiesExample\obj\Debug\42_PropertiesExample.pdb

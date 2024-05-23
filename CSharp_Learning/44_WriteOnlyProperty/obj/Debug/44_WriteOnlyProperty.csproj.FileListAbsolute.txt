@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\44_WriteOnlyProperty\bin\Debug\44_WriteOnlyProperty.exe.config
+C:\CSharp_Learning\CSharp_Learning\44_WriteOnlyProperty\bin\Debug\44_WriteOnlyProperty.exe
+C:\CSharp_Learning\CSharp_Learning\44_WriteOnlyProperty\bin\Debug\44_WriteOnlyProperty.pdb
+C:\CSharp_Learning\CSharp_Learning\44_WriteOnlyProperty\obj\Debug\44_WriteOnlyProperty.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\44_WriteOnlyProperty\obj\Debug\44_WriteOnlyProperty.exe
+C:\CSharp_Learning\CSharp_Learning\44_WriteOnlyProperty\obj\Debug\44_WriteOnlyProperty.pdb
