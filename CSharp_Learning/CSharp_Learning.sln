@@ -117,6 +117,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "53_MethodOverridingExample"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54_SealedClassExample", "54_SealedClassExample\54_SealedClassExample.csproj", "{C470A61C-49AC-4A96-A096-E16B9D4789B6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55_AbstractClass", "55_AbstractClass\55_AbstractClass.csproj", "{739828D7-64DE-4712-B77B-48FC9E267B19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "56_AbstractMethodExample", "56_AbstractMethodExample\56_AbstractMethodExample.csproj", "{FFF8656B-74A6-418B-A931-D831C8E29BB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -351,6 +355,14 @@ Global
 		{C470A61C-49AC-4A96-A096-E16B9D4789B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C470A61C-49AC-4A96-A096-E16B9D4789B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C470A61C-49AC-4A96-A096-E16B9D4789B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{739828D7-64DE-4712-B77B-48FC9E267B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739828D7-64DE-4712-B77B-48FC9E267B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739828D7-64DE-4712-B77B-48FC9E267B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739828D7-64DE-4712-B77B-48FC9E267B19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF8656B-74A6-418B-A931-D831C8E29BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF8656B-74A6-418B-A931-D831C8E29BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF8656B-74A6-418B-A931-D831C8E29BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF8656B-74A6-418B-A931-D831C8E29BB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
