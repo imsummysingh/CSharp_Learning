@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\60_InterfaceInheritance\bin\Debug\60_InterfaceInheritance.exe.config
+C:\CSharp_Learning\CSharp_Learning\60_InterfaceInheritance\bin\Debug\60_InterfaceInheritance.exe
+C:\CSharp_Learning\CSharp_Learning\60_InterfaceInheritance\bin\Debug\60_InterfaceInheritance.pdb
+C:\CSharp_Learning\CSharp_Learning\60_InterfaceInheritance\obj\Debug\60_InterfaceInheritance.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\60_InterfaceInheritance\obj\Debug\60_InterfaceInheritance.exe
+C:\CSharp_Learning\CSharp_Learning\60_InterfaceInheritance\obj\Debug\60_InterfaceInheritance.pdb
