@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\63_StaticClassExample\bin\Debug\63_StaticClassExample.exe.config
+C:\CSharp_Learning\CSharp_Learning\63_StaticClassExample\bin\Debug\63_StaticClassExample.exe
+C:\CSharp_Learning\CSharp_Learning\63_StaticClassExample\bin\Debug\63_StaticClassExample.pdb
+C:\CSharp_Learning\CSharp_Learning\63_StaticClassExample\obj\Debug\63_StaticClassExample.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\63_StaticClassExample\obj\Debug\63_StaticClassExample.exe
+C:\CSharp_Learning\CSharp_Learning\63_StaticClassExample\obj\Debug\63_StaticClassExample.pdb

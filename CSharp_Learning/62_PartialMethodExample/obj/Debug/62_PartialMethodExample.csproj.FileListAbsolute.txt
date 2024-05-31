@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\62_PartialMethodExample\bin\Debug\62_PartialMethodExample.exe.config
+C:\CSharp_Learning\CSharp_Learning\62_PartialMethodExample\bin\Debug\62_PartialMethodExample.exe
+C:\CSharp_Learning\CSharp_Learning\62_PartialMethodExample\bin\Debug\62_PartialMethodExample.pdb
+C:\CSharp_Learning\CSharp_Learning\62_PartialMethodExample\obj\Debug\62_PartialMethodExample.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\62_PartialMethodExample\obj\Debug\62_PartialMethodExample.exe
+C:\CSharp_Learning\CSharp_Learning\62_PartialMethodExample\obj\Debug\62_PartialMethodExample.pdb

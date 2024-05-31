@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\61_PartialClassExample\bin\Debug\61_PartialClassExample.exe.config
+C:\CSharp_Learning\CSharp_Learning\61_PartialClassExample\bin\Debug\61_PartialClassExample.exe
+C:\CSharp_Learning\CSharp_Learning\61_PartialClassExample\bin\Debug\61_PartialClassExample.pdb
+C:\CSharp_Learning\CSharp_Learning\61_PartialClassExample\obj\Debug\61_PartialClassExample.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\61_PartialClassExample\obj\Debug\61_PartialClassExample.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\61_PartialClassExample\obj\Debug\61_PartialClassExample.exe
+C:\CSharp_Learning\CSharp_Learning\61_PartialClassExample\obj\Debug\61_PartialClassExample.pdb

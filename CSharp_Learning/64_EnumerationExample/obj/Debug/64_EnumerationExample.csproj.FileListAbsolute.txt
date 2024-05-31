@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\64_EnumerationExample\bin\Debug\64_EnumerationExample.exe.config
+C:\CSharp_Learning\CSharp_Learning\64_EnumerationExample\bin\Debug\64_EnumerationExample.exe
+C:\CSharp_Learning\CSharp_Learning\64_EnumerationExample\bin\Debug\64_EnumerationExample.pdb
+C:\CSharp_Learning\CSharp_Learning\64_EnumerationExample\obj\Debug\64_EnumerationExample.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\64_EnumerationExample\obj\Debug\64_EnumerationExample.exe
+C:\CSharp_Learning\CSharp_Learning\64_EnumerationExample\obj\Debug\64_EnumerationExample.pdb
