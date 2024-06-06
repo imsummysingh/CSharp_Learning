@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\68_ReadOnlyStructures\bin\Debug\68_ReadOnlyStructures.exe.config
+C:\CSharp_Learning\CSharp_Learning\68_ReadOnlyStructures\bin\Debug\68_ReadOnlyStructures.exe
+C:\CSharp_Learning\CSharp_Learning\68_ReadOnlyStructures\bin\Debug\68_ReadOnlyStructures.pdb
+C:\CSharp_Learning\CSharp_Learning\68_ReadOnlyStructures\obj\Debug\68_ReadOnlyStructures.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\68_ReadOnlyStructures\obj\Debug\68_ReadOnlyStructures.exe
+C:\CSharp_Learning\CSharp_Learning\68_ReadOnlyStructures\obj\Debug\68_ReadOnlyStructures.pdb

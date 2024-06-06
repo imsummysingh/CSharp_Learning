@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\65_StructuresExample\bin\Debug\65_StructuresExample.exe.config
+C:\CSharp_Learning\CSharp_Learning\65_StructuresExample\bin\Debug\65_StructuresExample.exe
+C:\CSharp_Learning\CSharp_Learning\65_StructuresExample\bin\Debug\65_StructuresExample.pdb
+C:\CSharp_Learning\CSharp_Learning\65_StructuresExample\obj\Debug\65_StructuresExample.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\65_StructuresExample\obj\Debug\65_StructuresExample.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\65_StructuresExample\obj\Debug\65_StructuresExample.exe
+C:\CSharp_Learning\CSharp_Learning\65_StructuresExample\obj\Debug\65_StructuresExample.pdb

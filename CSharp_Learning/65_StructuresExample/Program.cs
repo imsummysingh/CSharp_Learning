@@ -1,0 +1,66 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+//Structure Example
+namespace _65_StructuresExample
+{
+    //creating structure
+    public struct Category
+    {
+        //private fields
+        private int _categoryId;
+        private string _categoryName;
+
+        //properties
+        public int CategoryId
+        {
+            set
+            {
+                _categoryId = value;
+            }
+            get
+            {
+                return _categoryId;
+            }
+        }
+
+        public string CategoryName
+        {
+            set
+            {
+                _categoryName = value; 
+            }
+            get
+            {
+                return _categoryName;
+            }
+        }
+
+        //public method
+        public int GetCategoryNameLength()
+        {
+            return this._categoryName.Length;
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //creating instance for the structure category
+            Category c = new Category();
+
+            c.CategoryId = 101;
+            c.CategoryName = "Mobiles";
+
+            Console.WriteLine(c.CategoryId);
+            Console.WriteLine(c.CategoryName);
+            Console.WriteLine("The length of category name: "+c.GetCategoryNameLength());
+
+
+            Console.ReadLine();
+        }
+    }
+}

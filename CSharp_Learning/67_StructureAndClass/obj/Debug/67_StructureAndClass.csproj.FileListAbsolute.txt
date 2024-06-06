@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\67_StructureAndClass\bin\Debug\67_StructureAndClass.exe.config
+C:\CSharp_Learning\CSharp_Learning\67_StructureAndClass\bin\Debug\67_StructureAndClass.exe
+C:\CSharp_Learning\CSharp_Learning\67_StructureAndClass\bin\Debug\67_StructureAndClass.pdb
+C:\CSharp_Learning\CSharp_Learning\67_StructureAndClass\obj\Debug\67_StructureAndClass.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\67_StructureAndClass\obj\Debug\67_StructureAndClass.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\67_StructureAndClass\obj\Debug\67_StructureAndClass.exe
+C:\CSharp_Learning\CSharp_Learning\67_StructureAndClass\obj\Debug\67_StructureAndClass.pdb
