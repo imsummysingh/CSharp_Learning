@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\69_SystemObjectClassMethods\bin\Debug\69_SystemObjectClassMethods.exe.config
+C:\CSharp_Learning\CSharp_Learning\69_SystemObjectClassMethods\bin\Debug\69_SystemObjectClassMethods.exe
+C:\CSharp_Learning\CSharp_Learning\69_SystemObjectClassMethods\bin\Debug\69_SystemObjectClassMethods.pdb
+C:\CSharp_Learning\CSharp_Learning\69_SystemObjectClassMethods\obj\Debug\69_SystemObjectClassMethods.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\69_SystemObjectClassMethods\obj\Debug\69_SystemObjectClassMethods.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\69_SystemObjectClassMethods\obj\Debug\69_SystemObjectClassMethods.exe
+C:\CSharp_Learning\CSharp_Learning\69_SystemObjectClassMethods\obj\Debug\69_SystemObjectClassMethods.pdb
