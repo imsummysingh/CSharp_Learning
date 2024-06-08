@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\72_GenericClass\bin\Debug\72_GenericClass.exe.config
+C:\CSharp_Learning\CSharp_Learning\72_GenericClass\bin\Debug\72_GenericClass.exe
+C:\CSharp_Learning\CSharp_Learning\72_GenericClass\bin\Debug\72_GenericClass.pdb
+C:\CSharp_Learning\CSharp_Learning\72_GenericClass\obj\Debug\72_GenericClass.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\72_GenericClass\obj\Debug\72_GenericClass.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\72_GenericClass\obj\Debug\72_GenericClass.exe
+C:\CSharp_Learning\CSharp_Learning\72_GenericClass\obj\Debug\72_GenericClass.pdb

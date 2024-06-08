@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\73_MultipleGenericParameters\bin\Debug\73_MultipleGenericParameters.exe.config
+C:\CSharp_Learning\CSharp_Learning\73_MultipleGenericParameters\bin\Debug\73_MultipleGenericParameters.exe
+C:\CSharp_Learning\CSharp_Learning\73_MultipleGenericParameters\bin\Debug\73_MultipleGenericParameters.pdb
+C:\CSharp_Learning\CSharp_Learning\73_MultipleGenericParameters\obj\Debug\73_MultipleGenericParameters.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\73_MultipleGenericParameters\obj\Debug\73_MultipleGenericParameters.exe
+C:\CSharp_Learning\CSharp_Learning\73_MultipleGenericParameters\obj\Debug\73_MultipleGenericParameters.pdb
