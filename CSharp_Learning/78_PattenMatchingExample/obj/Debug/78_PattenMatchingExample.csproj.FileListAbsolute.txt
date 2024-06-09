@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\78_PattenMatchingExample\bin\Debug\78_PattenMatchingExample.exe.config
+C:\CSharp_Learning\CSharp_Learning\78_PattenMatchingExample\bin\Debug\78_PattenMatchingExample.exe
+C:\CSharp_Learning\CSharp_Learning\78_PattenMatchingExample\bin\Debug\78_PattenMatchingExample.pdb
+C:\CSharp_Learning\CSharp_Learning\78_PattenMatchingExample\obj\Debug\78_PattenMatchingExample.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\78_PattenMatchingExample\obj\Debug\78_PattenMatchingExample.exe
+C:\CSharp_Learning\CSharp_Learning\78_PattenMatchingExample\obj\Debug\78_PattenMatchingExample.pdb

@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\79_InnerClassExample\bin\Debug\79_InnerClassExample.exe.config
+C:\CSharp_Learning\CSharp_Learning\79_InnerClassExample\bin\Debug\79_InnerClassExample.exe
+C:\CSharp_Learning\CSharp_Learning\79_InnerClassExample\bin\Debug\79_InnerClassExample.pdb
+C:\CSharp_Learning\CSharp_Learning\79_InnerClassExample\obj\Debug\79_InnerClassExample.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\79_InnerClassExample\obj\Debug\79_InnerClassExample.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\79_InnerClassExample\obj\Debug\79_InnerClassExample.exe
+C:\CSharp_Learning\CSharp_Learning\79_InnerClassExample\obj\Debug\79_InnerClassExample.pdb
