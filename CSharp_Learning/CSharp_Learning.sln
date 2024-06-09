@@ -167,6 +167,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "78_PattenMatchingExample", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "79_InnerClassExample", "79_InnerClassExample\79_InnerClassExample.csproj", "{2516B3FF-BC87-4F19-BC6B-7F3CC9350B06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "80_Destructor", "80_Destructor\80_Destructor.csproj", "{925157CE-A037-4DF6-8AED-046B19BC87E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "81_Dispose", "81_Dispose\81_Dispose.csproj", "{56BC9A29-0AAD-4F23-A4E4-AAD9AD9C5D6A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -501,6 +505,14 @@ Global
 		{2516B3FF-BC87-4F19-BC6B-7F3CC9350B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2516B3FF-BC87-4F19-BC6B-7F3CC9350B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2516B3FF-BC87-4F19-BC6B-7F3CC9350B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{925157CE-A037-4DF6-8AED-046B19BC87E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925157CE-A037-4DF6-8AED-046B19BC87E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925157CE-A037-4DF6-8AED-046B19BC87E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925157CE-A037-4DF6-8AED-046B19BC87E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56BC9A29-0AAD-4F23-A4E4-AAD9AD9C5D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56BC9A29-0AAD-4F23-A4E4-AAD9AD9C5D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56BC9A29-0AAD-4F23-A4E4-AAD9AD9C5D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56BC9A29-0AAD-4F23-A4E4-AAD9AD9C5D6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

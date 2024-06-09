@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\80_Destructor\bin\Debug\80_Destructor.exe.config
+C:\CSharp_Learning\CSharp_Learning\80_Destructor\bin\Debug\80_Destructor.exe
+C:\CSharp_Learning\CSharp_Learning\80_Destructor\bin\Debug\80_Destructor.pdb
+C:\CSharp_Learning\CSharp_Learning\80_Destructor\obj\Debug\80_Destructor.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\80_Destructor\obj\Debug\80_Destructor.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\80_Destructor\obj\Debug\80_Destructor.exe
+C:\CSharp_Learning\CSharp_Learning\80_Destructor\obj\Debug\80_Destructor.pdb

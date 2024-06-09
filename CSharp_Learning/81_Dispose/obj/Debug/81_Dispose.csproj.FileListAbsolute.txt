@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\81_Dispose\bin\Debug\81_Dispose.exe.config
+C:\CSharp_Learning\CSharp_Learning\81_Dispose\bin\Debug\81_Dispose.exe
+C:\CSharp_Learning\CSharp_Learning\81_Dispose\bin\Debug\81_Dispose.pdb
+C:\CSharp_Learning\CSharp_Learning\81_Dispose\obj\Debug\81_Dispose.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\81_Dispose\obj\Debug\81_Dispose.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\81_Dispose\obj\Debug\81_Dispose.exe
+C:\CSharp_Learning\CSharp_Learning\81_Dispose\obj\Debug\81_Dispose.pdb
