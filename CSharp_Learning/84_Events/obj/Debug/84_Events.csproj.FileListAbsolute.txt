@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\84_Events\bin\Debug\84_Events.exe.config
+C:\CSharp_Learning\CSharp_Learning\84_Events\bin\Debug\84_Events.exe
+C:\CSharp_Learning\CSharp_Learning\84_Events\bin\Debug\84_Events.pdb
+C:\CSharp_Learning\CSharp_Learning\84_Events\obj\Debug\84_Events.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\84_Events\obj\Debug\84_Events.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\84_Events\obj\Debug\84_Events.exe
+C:\CSharp_Learning\CSharp_Learning\84_Events\obj\Debug\84_Events.pdb

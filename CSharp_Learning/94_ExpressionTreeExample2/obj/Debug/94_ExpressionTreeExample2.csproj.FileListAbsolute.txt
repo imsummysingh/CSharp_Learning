@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\94_ExpressionTreeExample2\obj\Debug\94_ExpressionTreeExample2.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\94_ExpressionTreeExample2\bin\Debug\94_ExpressionTreeExample2.exe.config
+C:\CSharp_Learning\CSharp_Learning\94_ExpressionTreeExample2\bin\Debug\94_ExpressionTreeExample2.exe
+C:\CSharp_Learning\CSharp_Learning\94_ExpressionTreeExample2\bin\Debug\94_ExpressionTreeExample2.pdb
+C:\CSharp_Learning\CSharp_Learning\94_ExpressionTreeExample2\obj\Debug\94_ExpressionTreeExample2.exe
+C:\CSharp_Learning\CSharp_Learning\94_ExpressionTreeExample2\obj\Debug\94_ExpressionTreeExample2.pdb

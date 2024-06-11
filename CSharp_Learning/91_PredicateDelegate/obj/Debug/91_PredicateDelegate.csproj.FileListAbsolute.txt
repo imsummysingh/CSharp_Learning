@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\91_PredicateDelegate\bin\Debug\91_PredicateDelegate.exe.config
+C:\CSharp_Learning\CSharp_Learning\91_PredicateDelegate\bin\Debug\91_PredicateDelegate.exe
+C:\CSharp_Learning\CSharp_Learning\91_PredicateDelegate\bin\Debug\91_PredicateDelegate.pdb
+C:\CSharp_Learning\CSharp_Learning\91_PredicateDelegate\obj\Debug\91_PredicateDelegate.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\91_PredicateDelegate\obj\Debug\91_PredicateDelegate.exe
+C:\CSharp_Learning\CSharp_Learning\91_PredicateDelegate\obj\Debug\91_PredicateDelegate.pdb

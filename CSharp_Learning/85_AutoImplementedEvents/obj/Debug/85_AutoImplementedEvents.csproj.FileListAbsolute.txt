@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\85_AutoImplementedEvents\bin\Debug\85_AutoImplementedEvents.exe.config
+C:\CSharp_Learning\CSharp_Learning\85_AutoImplementedEvents\bin\Debug\85_AutoImplementedEvents.exe
+C:\CSharp_Learning\CSharp_Learning\85_AutoImplementedEvents\bin\Debug\85_AutoImplementedEvents.pdb
+C:\CSharp_Learning\CSharp_Learning\85_AutoImplementedEvents\obj\Debug\85_AutoImplementedEvents.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\85_AutoImplementedEvents\obj\Debug\85_AutoImplementedEvents.exe
+C:\CSharp_Learning\CSharp_Learning\85_AutoImplementedEvents\obj\Debug\85_AutoImplementedEvents.pdb

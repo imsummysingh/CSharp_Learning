@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\88_InlineLambdaExpression\bin\Debug\88_InlineLambdaExpression.exe.config
+C:\CSharp_Learning\CSharp_Learning\88_InlineLambdaExpression\bin\Debug\88_InlineLambdaExpression.exe
+C:\CSharp_Learning\CSharp_Learning\88_InlineLambdaExpression\bin\Debug\88_InlineLambdaExpression.pdb
+C:\CSharp_Learning\CSharp_Learning\88_InlineLambdaExpression\obj\Debug\88_InlineLambdaExpression.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\88_InlineLambdaExpression\obj\Debug\88_InlineLambdaExpression.exe
+C:\CSharp_Learning\CSharp_Learning\88_InlineLambdaExpression\obj\Debug\88_InlineLambdaExpression.pdb

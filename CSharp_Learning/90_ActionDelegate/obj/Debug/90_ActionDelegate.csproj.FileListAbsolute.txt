@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\90_ActionDelegate\bin\Debug\90_ActionDelegate.exe.config
+C:\CSharp_Learning\CSharp_Learning\90_ActionDelegate\bin\Debug\90_ActionDelegate.exe
+C:\CSharp_Learning\CSharp_Learning\90_ActionDelegate\bin\Debug\90_ActionDelegate.pdb
+C:\CSharp_Learning\CSharp_Learning\90_ActionDelegate\obj\Debug\90_ActionDelegate.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\90_ActionDelegate\obj\Debug\90_ActionDelegate.exe
+C:\CSharp_Learning\CSharp_Learning\90_ActionDelegate\obj\Debug\90_ActionDelegate.pdb

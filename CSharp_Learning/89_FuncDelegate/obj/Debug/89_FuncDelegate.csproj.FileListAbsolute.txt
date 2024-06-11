@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\89_FuncDelegate\bin\Debug\89_FuncDelegate.exe.config
+C:\CSharp_Learning\CSharp_Learning\89_FuncDelegate\bin\Debug\89_FuncDelegate.exe
+C:\CSharp_Learning\CSharp_Learning\89_FuncDelegate\bin\Debug\89_FuncDelegate.pdb
+C:\CSharp_Learning\CSharp_Learning\89_FuncDelegate\obj\Debug\89_FuncDelegate.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\89_FuncDelegate\obj\Debug\89_FuncDelegate.exe
+C:\CSharp_Learning\CSharp_Learning\89_FuncDelegate\obj\Debug\89_FuncDelegate.pdb

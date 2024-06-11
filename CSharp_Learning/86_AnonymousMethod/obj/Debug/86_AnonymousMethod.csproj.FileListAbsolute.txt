@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\86_AnonymousMethod\bin\Debug\86_AnonymousMethod.exe.config
+C:\CSharp_Learning\CSharp_Learning\86_AnonymousMethod\bin\Debug\86_AnonymousMethod.exe
+C:\CSharp_Learning\CSharp_Learning\86_AnonymousMethod\bin\Debug\86_AnonymousMethod.pdb
+C:\CSharp_Learning\CSharp_Learning\86_AnonymousMethod\obj\Debug\86_AnonymousMethod.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\86_AnonymousMethod\obj\Debug\86_AnonymousMethod.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\86_AnonymousMethod\obj\Debug\86_AnonymousMethod.exe
+C:\CSharp_Learning\CSharp_Learning\86_AnonymousMethod\obj\Debug\86_AnonymousMethod.pdb

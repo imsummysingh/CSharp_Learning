@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\87_LambdaExpression\bin\Debug\87_LambdaExpression.exe.config
+C:\CSharp_Learning\CSharp_Learning\87_LambdaExpression\bin\Debug\87_LambdaExpression.exe
+C:\CSharp_Learning\CSharp_Learning\87_LambdaExpression\bin\Debug\87_LambdaExpression.pdb
+C:\CSharp_Learning\CSharp_Learning\87_LambdaExpression\obj\Debug\87_LambdaExpression.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\87_LambdaExpression\obj\Debug\87_LambdaExpression.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\87_LambdaExpression\obj\Debug\87_LambdaExpression.exe
+C:\CSharp_Learning\CSharp_Learning\87_LambdaExpression\obj\Debug\87_LambdaExpression.pdb
