@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\82_SingleCastDelegate\bin\Debug\82_SingleCastDelegate.exe.config
+C:\CSharp_Learning\CSharp_Learning\82_SingleCastDelegate\bin\Debug\82_SingleCastDelegate.exe
+C:\CSharp_Learning\CSharp_Learning\82_SingleCastDelegate\bin\Debug\82_SingleCastDelegate.pdb
+C:\CSharp_Learning\CSharp_Learning\82_SingleCastDelegate\obj\Debug\82_SingleCastDelegate.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\82_SingleCastDelegate\obj\Debug\82_SingleCastDelegate.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\82_SingleCastDelegate\obj\Debug\82_SingleCastDelegate.exe
+C:\CSharp_Learning\CSharp_Learning\82_SingleCastDelegate\obj\Debug\82_SingleCastDelegate.pdb
