@@ -199,6 +199,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "94_ExpressionTreeExample2",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "95_ExpressionBodiedMembersExample", "95_ExpressionBodiedMembersExample\95_ExpressionBodiedMembersExample.csproj", "{5B54BFA1-5660-4CCE-896A-EDC14B932D01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "96_SwitchExpressionExample", "96_SwitchExpressionExample\96_SwitchExpressionExample.csproj", "{B2CFF851-0D62-4728-B1B2-A40AFF75FC6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -597,6 +599,10 @@ Global
 		{5B54BFA1-5660-4CCE-896A-EDC14B932D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B54BFA1-5660-4CCE-896A-EDC14B932D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B54BFA1-5660-4CCE-896A-EDC14B932D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CFF851-0D62-4728-B1B2-A40AFF75FC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CFF851-0D62-4728-B1B2-A40AFF75FC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CFF851-0D62-4728-B1B2-A40AFF75FC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CFF851-0D62-4728-B1B2-A40AFF75FC6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
