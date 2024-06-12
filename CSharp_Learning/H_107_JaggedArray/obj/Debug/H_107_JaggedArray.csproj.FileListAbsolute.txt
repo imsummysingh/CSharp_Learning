@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\H_107_JaggedArray\bin\Debug\H_107_JaggedArray.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_107_JaggedArray\bin\Debug\H_107_JaggedArray.exe
+C:\CSharp_Learning\CSharp_Learning\H_107_JaggedArray\bin\Debug\H_107_JaggedArray.pdb
+C:\CSharp_Learning\CSharp_Learning\H_107_JaggedArray\obj\Debug\H_107_JaggedArray.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_107_JaggedArray\obj\Debug\H_107_JaggedArray.exe
+C:\CSharp_Learning\CSharp_Learning\H_107_JaggedArray\obj\Debug\H_107_JaggedArray.pdb

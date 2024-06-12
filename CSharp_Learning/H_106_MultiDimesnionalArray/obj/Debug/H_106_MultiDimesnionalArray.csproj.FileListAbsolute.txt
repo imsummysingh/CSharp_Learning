@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\H_106_MultiDimesnionalArray\bin\Debug\H_106_MultiDimesnionalArray.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_106_MultiDimesnionalArray\bin\Debug\H_106_MultiDimesnionalArray.exe
+C:\CSharp_Learning\CSharp_Learning\H_106_MultiDimesnionalArray\bin\Debug\H_106_MultiDimesnionalArray.pdb
+C:\CSharp_Learning\CSharp_Learning\H_106_MultiDimesnionalArray\obj\Debug\H_106_MultiDimesnionalArray.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\H_106_MultiDimesnionalArray\obj\Debug\H_106_MultiDimesnionalArray.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_106_MultiDimesnionalArray\obj\Debug\H_106_MultiDimesnionalArray.exe
+C:\CSharp_Learning\CSharp_Learning\H_106_MultiDimesnionalArray\obj\Debug\H_106_MultiDimesnionalArray.pdb

@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\H_108_ArrayOfObjectsExample\bin\Debug\H_108_ArrayOfObjectsExample.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_108_ArrayOfObjectsExample\bin\Debug\H_108_ArrayOfObjectsExample.exe
+C:\CSharp_Learning\CSharp_Learning\H_108_ArrayOfObjectsExample\bin\Debug\H_108_ArrayOfObjectsExample.pdb
+C:\CSharp_Learning\CSharp_Learning\H_108_ArrayOfObjectsExample\obj\Debug\H_108_ArrayOfObjectsExample.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_108_ArrayOfObjectsExample\obj\Debug\H_108_ArrayOfObjectsExample.exe
+C:\CSharp_Learning\CSharp_Learning\H_108_ArrayOfObjectsExample\obj\Debug\H_108_ArrayOfObjectsExample.pdb
