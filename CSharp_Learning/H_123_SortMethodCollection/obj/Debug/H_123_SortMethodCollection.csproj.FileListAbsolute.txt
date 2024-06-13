@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\H_123_SortMethodCollection\bin\Debug\H_123_SortMethodCollection.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_123_SortMethodCollection\bin\Debug\H_123_SortMethodCollection.exe
+C:\CSharp_Learning\CSharp_Learning\H_123_SortMethodCollection\bin\Debug\H_123_SortMethodCollection.pdb
+C:\CSharp_Learning\CSharp_Learning\H_123_SortMethodCollection\obj\Debug\H_123_SortMethodCollection.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_123_SortMethodCollection\obj\Debug\H_123_SortMethodCollection.exe
+C:\CSharp_Learning\CSharp_Learning\H_123_SortMethodCollection\obj\Debug\H_123_SortMethodCollection.pdb

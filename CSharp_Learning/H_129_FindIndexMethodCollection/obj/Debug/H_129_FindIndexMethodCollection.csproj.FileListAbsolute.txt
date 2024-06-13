@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\H_129_FindIndexMethodCollection\bin\Debug\H_129_FindIndexMethodCollection.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_129_FindIndexMethodCollection\bin\Debug\H_129_FindIndexMethodCollection.exe
+C:\CSharp_Learning\CSharp_Learning\H_129_FindIndexMethodCollection\bin\Debug\H_129_FindIndexMethodCollection.pdb
+C:\CSharp_Learning\CSharp_Learning\H_129_FindIndexMethodCollection\obj\Debug\H_129_FindIndexMethodCollection.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_129_FindIndexMethodCollection\obj\Debug\H_129_FindIndexMethodCollection.exe
+C:\CSharp_Learning\CSharp_Learning\H_129_FindIndexMethodCollection\obj\Debug\H_129_FindIndexMethodCollection.pdb

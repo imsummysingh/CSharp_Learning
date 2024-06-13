@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\H_128_FIndMethodCollection\bin\Debug\H_128_FIndMethodCollection.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_128_FIndMethodCollection\bin\Debug\H_128_FIndMethodCollection.exe
+C:\CSharp_Learning\CSharp_Learning\H_128_FIndMethodCollection\bin\Debug\H_128_FIndMethodCollection.pdb
+C:\CSharp_Learning\CSharp_Learning\H_128_FIndMethodCollection\obj\Debug\H_128_FIndMethodCollection.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_128_FIndMethodCollection\obj\Debug\H_128_FIndMethodCollection.exe
+C:\CSharp_Learning\CSharp_Learning\H_128_FIndMethodCollection\obj\Debug\H_128_FIndMethodCollection.pdb

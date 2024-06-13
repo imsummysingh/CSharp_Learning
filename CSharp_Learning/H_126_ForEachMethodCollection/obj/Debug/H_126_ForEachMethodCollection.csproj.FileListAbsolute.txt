@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\H_126_ForEachMethodCollection\bin\Debug\H_126_ForEachMethodCollection.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_126_ForEachMethodCollection\bin\Debug\H_126_ForEachMethodCollection.exe
+C:\CSharp_Learning\CSharp_Learning\H_126_ForEachMethodCollection\bin\Debug\H_126_ForEachMethodCollection.pdb
+C:\CSharp_Learning\CSharp_Learning\H_126_ForEachMethodCollection\obj\Debug\H_126_ForEachMethodCollection.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_126_ForEachMethodCollection\obj\Debug\H_126_ForEachMethodCollection.exe
+C:\CSharp_Learning\CSharp_Learning\H_126_ForEachMethodCollection\obj\Debug\H_126_ForEachMethodCollection.pdb

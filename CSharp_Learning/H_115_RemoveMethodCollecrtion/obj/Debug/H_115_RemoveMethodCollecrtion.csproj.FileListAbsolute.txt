@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\H_115_RemoveMethodCollecrtion\bin\Debug\H_115_RemoveMethodCollecrtion.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_115_RemoveMethodCollecrtion\bin\Debug\H_115_RemoveMethodCollecrtion.exe
+C:\CSharp_Learning\CSharp_Learning\H_115_RemoveMethodCollecrtion\bin\Debug\H_115_RemoveMethodCollecrtion.pdb
+C:\CSharp_Learning\CSharp_Learning\H_115_RemoveMethodCollecrtion\obj\Debug\H_115_RemoveMethodCollecrtion.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_115_RemoveMethodCollecrtion\obj\Debug\H_115_RemoveMethodCollecrtion.exe
+C:\CSharp_Learning\CSharp_Learning\H_115_RemoveMethodCollecrtion\obj\Debug\H_115_RemoveMethodCollecrtion.pdb

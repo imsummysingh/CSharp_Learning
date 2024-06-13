@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\H_113_InsertMethod\bin\Debug\H_113_InsertMethod.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_113_InsertMethod\bin\Debug\H_113_InsertMethod.exe
+C:\CSharp_Learning\CSharp_Learning\H_113_InsertMethod\bin\Debug\H_113_InsertMethod.pdb
+C:\CSharp_Learning\CSharp_Learning\H_113_InsertMethod\obj\Debug\H_113_InsertMethod.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_113_InsertMethod\obj\Debug\H_113_InsertMethod.exe
+C:\CSharp_Learning\CSharp_Learning\H_113_InsertMethod\obj\Debug\H_113_InsertMethod.pdb

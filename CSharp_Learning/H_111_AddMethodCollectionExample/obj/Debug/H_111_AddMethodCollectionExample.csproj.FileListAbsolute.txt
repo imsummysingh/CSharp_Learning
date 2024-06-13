@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\H_111_AddMethodCollectionExample\bin\Debug\H_111_AddMethodCollectionExample.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_111_AddMethodCollectionExample\bin\Debug\H_111_AddMethodCollectionExample.exe
+C:\CSharp_Learning\CSharp_Learning\H_111_AddMethodCollectionExample\bin\Debug\H_111_AddMethodCollectionExample.pdb
+C:\CSharp_Learning\CSharp_Learning\H_111_AddMethodCollectionExample\obj\Debug\H_111_AddMethodCollectionExample.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_111_AddMethodCollectionExample\obj\Debug\H_111_AddMethodCollectionExample.exe
+C:\CSharp_Learning\CSharp_Learning\H_111_AddMethodCollectionExample\obj\Debug\H_111_AddMethodCollectionExample.pdb

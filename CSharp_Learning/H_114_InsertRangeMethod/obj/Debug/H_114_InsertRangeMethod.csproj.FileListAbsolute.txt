@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\H_114_InsertRangeMethod\bin\Debug\H_114_InsertRangeMethod.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_114_InsertRangeMethod\bin\Debug\H_114_InsertRangeMethod.exe
+C:\CSharp_Learning\CSharp_Learning\H_114_InsertRangeMethod\bin\Debug\H_114_InsertRangeMethod.pdb
+C:\CSharp_Learning\CSharp_Learning\H_114_InsertRangeMethod\obj\Debug\H_114_InsertRangeMethod.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_114_InsertRangeMethod\obj\Debug\H_114_InsertRangeMethod.exe
+C:\CSharp_Learning\CSharp_Learning\H_114_InsertRangeMethod\obj\Debug\H_114_InsertRangeMethod.pdb
