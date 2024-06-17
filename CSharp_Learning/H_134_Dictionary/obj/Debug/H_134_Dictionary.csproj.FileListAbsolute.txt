@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\H_134_Dictionary\bin\Debug\H_134_Dictionary.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_134_Dictionary\bin\Debug\H_134_Dictionary.exe
+C:\CSharp_Learning\CSharp_Learning\H_134_Dictionary\bin\Debug\H_134_Dictionary.pdb
+C:\CSharp_Learning\CSharp_Learning\H_134_Dictionary\obj\Debug\H_134_Dictionary.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\H_134_Dictionary\obj\Debug\H_134_Dictionary.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_134_Dictionary\obj\Debug\H_134_Dictionary.exe
+C:\CSharp_Learning\CSharp_Learning\H_134_Dictionary\obj\Debug\H_134_Dictionary.pdb

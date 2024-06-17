@@ -275,6 +275,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_132_FindAllMethodCollecti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_133_ConvertAllMethodCollection", "H_133_ConvertAllMethodCollection\H_133_ConvertAllMethodCollection.csproj", "{83BF39E2-089B-4F5F-A69B-61D620F480B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_134_Dictionary", "H_134_Dictionary\H_134_Dictionary.csproj", "{CD540507-14E3-4228-8EFA-63B8A51FB036}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -825,6 +827,10 @@ Global
 		{83BF39E2-089B-4F5F-A69B-61D620F480B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83BF39E2-089B-4F5F-A69B-61D620F480B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83BF39E2-089B-4F5F-A69B-61D620F480B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD540507-14E3-4228-8EFA-63B8A51FB036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD540507-14E3-4228-8EFA-63B8A51FB036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD540507-14E3-4228-8EFA-63B8A51FB036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD540507-14E3-4228-8EFA-63B8A51FB036}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
