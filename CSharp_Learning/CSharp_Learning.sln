@@ -285,6 +285,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_137_HashSet", "H_137_Hash
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_138_ArrayList", "H_138_ArrayList\H_138_ArrayList.csproj", "{72330C21-4C30-41FE-87D1-32625128155B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_139_Stack", "H_139_Stack\H_139_Stack.csproj", "{EAF5EE67-FE41-451E-86D7-6A605EB157F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_140_QueueExample", "H_140_QueueExample\H_140_QueueExample.csproj", "{825146A7-8DEF-49F5-BA59-C8636DB36E67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -855,6 +859,14 @@ Global
 		{72330C21-4C30-41FE-87D1-32625128155B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72330C21-4C30-41FE-87D1-32625128155B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72330C21-4C30-41FE-87D1-32625128155B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF5EE67-FE41-451E-86D7-6A605EB157F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF5EE67-FE41-451E-86D7-6A605EB157F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF5EE67-FE41-451E-86D7-6A605EB157F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF5EE67-FE41-451E-86D7-6A605EB157F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{825146A7-8DEF-49F5-BA59-C8636DB36E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{825146A7-8DEF-49F5-BA59-C8636DB36E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{825146A7-8DEF-49F5-BA59-C8636DB36E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{825146A7-8DEF-49F5-BA59-C8636DB36E67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

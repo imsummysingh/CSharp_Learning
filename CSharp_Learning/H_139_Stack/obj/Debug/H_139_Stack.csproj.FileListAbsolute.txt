@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\H_139_Stack\bin\Debug\H_139_Stack.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_139_Stack\bin\Debug\H_139_Stack.exe
+C:\CSharp_Learning\CSharp_Learning\H_139_Stack\bin\Debug\H_139_Stack.pdb
+C:\CSharp_Learning\CSharp_Learning\H_139_Stack\obj\Debug\H_139_Stack.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\H_139_Stack\obj\Debug\H_139_Stack.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_139_Stack\obj\Debug\H_139_Stack.exe
+C:\CSharp_Learning\CSharp_Learning\H_139_Stack\obj\Debug\H_139_Stack.pdb

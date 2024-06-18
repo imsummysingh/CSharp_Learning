@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\H_140_QueueExample\bin\Debug\H_140_QueueExample.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_140_QueueExample\bin\Debug\H_140_QueueExample.exe
+C:\CSharp_Learning\CSharp_Learning\H_140_QueueExample\bin\Debug\H_140_QueueExample.pdb
+C:\CSharp_Learning\CSharp_Learning\H_140_QueueExample\obj\Debug\H_140_QueueExample.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_140_QueueExample\obj\Debug\H_140_QueueExample.exe
+C:\CSharp_Learning\CSharp_Learning\H_140_QueueExample\obj\Debug\H_140_QueueExample.pdb
