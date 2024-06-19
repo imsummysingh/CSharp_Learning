@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\H_148_CUstomCollections\bin\Debug\H_148_CUstomCollections.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_148_CUstomCollections\bin\Debug\H_148_CUstomCollections.exe
+C:\CSharp_Learning\CSharp_Learning\H_148_CUstomCollections\bin\Debug\H_148_CUstomCollections.pdb
+C:\CSharp_Learning\CSharp_Learning\H_148_CUstomCollections\obj\Debug\H_148_CUstomCollections.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\H_148_CUstomCollections\obj\Debug\H_148_CUstomCollections.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_148_CUstomCollections\obj\Debug\H_148_CUstomCollections.exe
+C:\CSharp_Learning\CSharp_Learning\H_148_CUstomCollections\obj\Debug\H_148_CUstomCollections.pdb

@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\H_145_IEnumerable\bin\Debug\H_145_IEnumerable.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_145_IEnumerable\bin\Debug\H_145_IEnumerable.exe
+C:\CSharp_Learning\CSharp_Learning\H_145_IEnumerable\bin\Debug\H_145_IEnumerable.pdb
+C:\CSharp_Learning\CSharp_Learning\H_145_IEnumerable\obj\Debug\H_145_IEnumerable.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\H_145_IEnumerable\obj\Debug\H_145_IEnumerable.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_145_IEnumerable\obj\Debug\H_145_IEnumerable.exe
+C:\CSharp_Learning\CSharp_Learning\H_145_IEnumerable\obj\Debug\H_145_IEnumerable.pdb
