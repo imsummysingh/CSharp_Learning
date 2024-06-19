@@ -309,6 +309,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_149_CustomCollectionIEnum
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_150_CustomCollectionICollection", "H_150_CustomCollectionICollection\H_150_CustomCollectionICollection.csproj", "{F67A2779-10B3-4277-BDF5-98AE33CD12FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_151_CustomCollectionIList", "H_151_CustomCollectionIList\H_151_CustomCollectionIList.csproj", "{01B027F6-90BB-48EE-9E6D-A998DE14097D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_152_IComparable", "H_152_IComparable\H_152_IComparable.csproj", "{28100FD7-C4E4-47A3-98AA-8DF420BE1751}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -927,6 +931,14 @@ Global
 		{F67A2779-10B3-4277-BDF5-98AE33CD12FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F67A2779-10B3-4277-BDF5-98AE33CD12FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F67A2779-10B3-4277-BDF5-98AE33CD12FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01B027F6-90BB-48EE-9E6D-A998DE14097D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B027F6-90BB-48EE-9E6D-A998DE14097D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B027F6-90BB-48EE-9E6D-A998DE14097D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B027F6-90BB-48EE-9E6D-A998DE14097D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28100FD7-C4E4-47A3-98AA-8DF420BE1751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28100FD7-C4E4-47A3-98AA-8DF420BE1751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28100FD7-C4E4-47A3-98AA-8DF420BE1751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28100FD7-C4E4-47A3-98AA-8DF420BE1751}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
