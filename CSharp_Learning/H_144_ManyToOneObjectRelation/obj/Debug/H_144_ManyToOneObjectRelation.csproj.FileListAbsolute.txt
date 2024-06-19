@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\H_144_ManyToOneObjectRelation\bin\Debug\H_144_ManyToOneObjectRelation.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_144_ManyToOneObjectRelation\bin\Debug\H_144_ManyToOneObjectRelation.exe
+C:\CSharp_Learning\CSharp_Learning\H_144_ManyToOneObjectRelation\bin\Debug\H_144_ManyToOneObjectRelation.pdb
+C:\CSharp_Learning\CSharp_Learning\H_144_ManyToOneObjectRelation\obj\Debug\H_144_ManyToOneObjectRelation.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_144_ManyToOneObjectRelation\obj\Debug\H_144_ManyToOneObjectRelation.exe
+C:\CSharp_Learning\CSharp_Learning\H_144_ManyToOneObjectRelation\obj\Debug\H_144_ManyToOneObjectRelation.pdb

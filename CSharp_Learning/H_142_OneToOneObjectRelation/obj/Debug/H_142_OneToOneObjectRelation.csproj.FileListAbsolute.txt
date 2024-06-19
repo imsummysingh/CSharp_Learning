@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\H_142_OneToOneObjectRelation\bin\Debug\H_142_OneToOneObjectRelation.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_142_OneToOneObjectRelation\bin\Debug\H_142_OneToOneObjectRelation.exe
+C:\CSharp_Learning\CSharp_Learning\H_142_OneToOneObjectRelation\bin\Debug\H_142_OneToOneObjectRelation.pdb
+C:\CSharp_Learning\CSharp_Learning\H_142_OneToOneObjectRelation\obj\Debug\H_142_OneToOneObjectRelation.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\H_142_OneToOneObjectRelation\obj\Debug\H_142_OneToOneObjectRelation.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_142_OneToOneObjectRelation\obj\Debug\H_142_OneToOneObjectRelation.exe
+C:\CSharp_Learning\CSharp_Learning\H_142_OneToOneObjectRelation\obj\Debug\H_142_OneToOneObjectRelation.pdb

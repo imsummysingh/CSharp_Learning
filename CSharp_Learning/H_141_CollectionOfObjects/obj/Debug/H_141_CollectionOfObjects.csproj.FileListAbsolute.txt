@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\H_141_CollectionOfObjects\bin\Debug\H_141_CollectionOfObjects.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_141_CollectionOfObjects\bin\Debug\H_141_CollectionOfObjects.exe
+C:\CSharp_Learning\CSharp_Learning\H_141_CollectionOfObjects\bin\Debug\H_141_CollectionOfObjects.pdb
+C:\CSharp_Learning\CSharp_Learning\H_141_CollectionOfObjects\obj\Debug\H_141_CollectionOfObjects.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\H_141_CollectionOfObjects\obj\Debug\H_141_CollectionOfObjects.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_141_CollectionOfObjects\obj\Debug\H_141_CollectionOfObjects.exe
+C:\CSharp_Learning\CSharp_Learning\H_141_CollectionOfObjects\obj\Debug\H_141_CollectionOfObjects.pdb
