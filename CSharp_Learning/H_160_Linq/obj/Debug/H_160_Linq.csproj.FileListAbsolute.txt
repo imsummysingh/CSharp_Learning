@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\H_160_Linq\bin\Debug\H_160_Linq.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_160_Linq\bin\Debug\H_160_Linq.exe
+C:\CSharp_Learning\CSharp_Learning\H_160_Linq\bin\Debug\H_160_Linq.pdb
+C:\CSharp_Learning\CSharp_Learning\H_160_Linq\obj\Debug\H_160_Linq.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\H_160_Linq\obj\Debug\H_160_Linq.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_160_Linq\obj\Debug\H_160_Linq.exe
+C:\CSharp_Learning\CSharp_Learning\H_160_Linq\obj\Debug\H_160_Linq.pdb

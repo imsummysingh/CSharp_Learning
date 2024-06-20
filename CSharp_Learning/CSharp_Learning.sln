@@ -327,6 +327,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_158_Deconstructing", "H_1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_159_Discards", "H_159_Discards\H_159_Discards.csproj", "{3494407E-990F-4F58-87B3-79CFCCF16FD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_160_Linq", "H_160_Linq\H_160_Linq.csproj", "{CFF1D8A3-5DCC-466A-AA6D-23890745D6E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_161_LinqOrderBy", "H_161_LinqOrderBy\H_161_LinqOrderBy.csproj", "{7C5316D5-F907-41F5-AA13-C180DA5211E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -981,6 +985,14 @@ Global
 		{3494407E-990F-4F58-87B3-79CFCCF16FD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3494407E-990F-4F58-87B3-79CFCCF16FD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3494407E-990F-4F58-87B3-79CFCCF16FD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFF1D8A3-5DCC-466A-AA6D-23890745D6E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFF1D8A3-5DCC-466A-AA6D-23890745D6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFF1D8A3-5DCC-466A-AA6D-23890745D6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFF1D8A3-5DCC-466A-AA6D-23890745D6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C5316D5-F907-41F5-AA13-C180DA5211E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5316D5-F907-41F5-AA13-C180DA5211E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5316D5-F907-41F5-AA13-C180DA5211E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5316D5-F907-41F5-AA13-C180DA5211E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
