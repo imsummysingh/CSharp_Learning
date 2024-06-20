@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\H_152_AnonymousObjects\bin\Debug\H_152_AnonymousObjects.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_152_AnonymousObjects\bin\Debug\H_152_AnonymousObjects.exe
+C:\CSharp_Learning\CSharp_Learning\H_152_AnonymousObjects\bin\Debug\H_152_AnonymousObjects.pdb
+C:\CSharp_Learning\CSharp_Learning\H_152_AnonymousObjects\obj\Debug\H_153_AnonymousObjects.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\H_152_AnonymousObjects\obj\Debug\H_153_AnonymousObjects.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_152_AnonymousObjects\obj\Debug\H_152_AnonymousObjects.exe
+C:\CSharp_Learning\CSharp_Learning\H_152_AnonymousObjects\obj\Debug\H_152_AnonymousObjects.pdb

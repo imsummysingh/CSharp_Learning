@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\H_154_NestedAnonymousObject\bin\Debug\H_154_NestedAnonymousObject.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_154_NestedAnonymousObject\bin\Debug\H_154_NestedAnonymousObject.exe
+C:\CSharp_Learning\CSharp_Learning\H_154_NestedAnonymousObject\bin\Debug\H_154_NestedAnonymousObject.pdb
+C:\CSharp_Learning\CSharp_Learning\H_154_NestedAnonymousObject\obj\Debug\H_154_NestedAnonymousObject.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_154_NestedAnonymousObject\obj\Debug\H_154_NestedAnonymousObject.exe
+C:\CSharp_Learning\CSharp_Learning\H_154_NestedAnonymousObject\obj\Debug\H_154_NestedAnonymousObject.pdb

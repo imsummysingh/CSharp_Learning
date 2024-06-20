@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\H_155_AnonymousArray\bin\Debug\H_155_AnonymousArray.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_155_AnonymousArray\bin\Debug\H_155_AnonymousArray.exe
+C:\CSharp_Learning\CSharp_Learning\H_155_AnonymousArray\bin\Debug\H_155_AnonymousArray.pdb
+C:\CSharp_Learning\CSharp_Learning\H_155_AnonymousArray\obj\Debug\H_155_AnonymousArray.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_155_AnonymousArray\obj\Debug\H_155_AnonymousArray.exe
+C:\CSharp_Learning\CSharp_Learning\H_155_AnonymousArray\obj\Debug\H_155_AnonymousArray.pdb
