@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\H_156_Tuple\bin\Debug\H_156_Tuple.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_156_Tuple\bin\Debug\H_156_Tuple.exe
+C:\CSharp_Learning\CSharp_Learning\H_156_Tuple\bin\Debug\H_156_Tuple.pdb
+C:\CSharp_Learning\CSharp_Learning\H_156_Tuple\obj\Debug\H_156_Tuple.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\H_156_Tuple\obj\Debug\H_156_Tuple.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_156_Tuple\obj\Debug\H_156_Tuple.exe
+C:\CSharp_Learning\CSharp_Learning\H_156_Tuple\obj\Debug\H_156_Tuple.pdb

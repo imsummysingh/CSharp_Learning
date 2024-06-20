@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\H_159_Discards\bin\Debug\H_159_Discards.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_159_Discards\bin\Debug\H_159_Discards.exe
+C:\CSharp_Learning\CSharp_Learning\H_159_Discards\bin\Debug\H_159_Discards.pdb
+C:\CSharp_Learning\CSharp_Learning\H_159_Discards\obj\Debug\H_159_Discards.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_159_Discards\obj\Debug\H_159_Discards.exe
+C:\CSharp_Learning\CSharp_Learning\H_159_Discards\obj\Debug\H_159_Discards.pdb

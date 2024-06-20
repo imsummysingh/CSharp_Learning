@@ -1,0 +1,10 @@
+C:\CSharp_Learning\CSharp_Learning\H_157_ValueTuple\bin\Debug\H_157_ValueTuple.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_157_ValueTuple\bin\Debug\H_157_ValueTuple.exe
+C:\CSharp_Learning\CSharp_Learning\H_157_ValueTuple\bin\Debug\H_157_ValueTuple.pdb
+C:\CSharp_Learning\CSharp_Learning\H_157_ValueTuple\bin\Debug\System.ValueTuple.dll
+C:\CSharp_Learning\CSharp_Learning\H_157_ValueTuple\bin\Debug\System.ValueTuple.xml
+C:\CSharp_Learning\CSharp_Learning\H_157_ValueTuple\obj\Debug\H_157_ValueTuple.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\H_157_ValueTuple\obj\Debug\H_157_ValueTuple.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_157_ValueTuple\obj\Debug\H_157_ValueTuple.csproj.CopyComplete
+C:\CSharp_Learning\CSharp_Learning\H_157_ValueTuple\obj\Debug\H_157_ValueTuple.exe
+C:\CSharp_Learning\CSharp_Learning\H_157_ValueTuple\obj\Debug\H_157_ValueTuple.pdb

@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\H_158_Deconstructing\bin\Debug\H_158_Deconstructing.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_158_Deconstructing\bin\Debug\H_158_Deconstructing.exe
+C:\CSharp_Learning\CSharp_Learning\H_158_Deconstructing\bin\Debug\H_158_Deconstructing.pdb
+C:\CSharp_Learning\CSharp_Learning\H_158_Deconstructing\obj\Debug\H_158_Deconstructing.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_158_Deconstructing\obj\Debug\H_158_Deconstructing.exe
+C:\CSharp_Learning\CSharp_Learning\H_158_Deconstructing\obj\Debug\H_158_Deconstructing.pdb
