@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\H_163_LinqLast\bin\Debug\H_163_LinqLast.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_163_LinqLast\bin\Debug\H_163_LinqLast.exe
+C:\CSharp_Learning\CSharp_Learning\H_163_LinqLast\bin\Debug\H_163_LinqLast.pdb
+C:\CSharp_Learning\CSharp_Learning\H_163_LinqLast\obj\Debug\H_163_LinqLast.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_163_LinqLast\obj\Debug\H_163_LinqLast.exe
+C:\CSharp_Learning\CSharp_Learning\H_163_LinqLast\obj\Debug\H_163_LinqLast.pdb

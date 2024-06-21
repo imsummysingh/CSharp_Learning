@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning\H_162_LinqFirst\bin\Debug\H_162_LinqFirst.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_162_LinqFirst\bin\Debug\H_162_LinqFirst.exe
+C:\CSharp_Learning\CSharp_Learning\H_162_LinqFirst\bin\Debug\H_162_LinqFirst.pdb
+C:\CSharp_Learning\CSharp_Learning\H_162_LinqFirst\obj\Debug\H_162_LinqFirst.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_162_LinqFirst\obj\Debug\H_162_LinqFirst.exe
+C:\CSharp_Learning\CSharp_Learning\H_162_LinqFirst\obj\Debug\H_162_LinqFirst.pdb

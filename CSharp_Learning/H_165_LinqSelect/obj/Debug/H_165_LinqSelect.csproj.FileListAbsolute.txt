@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning\H_165_LinqSelect\bin\Debug\H_165_LinqSelect.exe.config
+C:\CSharp_Learning\CSharp_Learning\H_165_LinqSelect\bin\Debug\H_165_LinqSelect.exe
+C:\CSharp_Learning\CSharp_Learning\H_165_LinqSelect\bin\Debug\H_165_LinqSelect.pdb
+C:\CSharp_Learning\CSharp_Learning\H_165_LinqSelect\obj\Debug\H_165_LinqSelect.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning\H_165_LinqSelect\obj\Debug\H_165_LinqSelect.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning\H_165_LinqSelect\obj\Debug\H_165_LinqSelect.exe
+C:\CSharp_Learning\CSharp_Learning\H_165_LinqSelect\obj\Debug\H_165_LinqSelect.pdb
