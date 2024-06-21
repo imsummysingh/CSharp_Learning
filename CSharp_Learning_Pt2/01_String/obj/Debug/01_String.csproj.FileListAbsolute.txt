@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning_Pt2\01_String\bin\Debug\01_String.exe.config
+C:\CSharp_Learning\CSharp_Learning_Pt2\01_String\bin\Debug\01_String.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\01_String\bin\Debug\01_String.pdb
+C:\CSharp_Learning\CSharp_Learning_Pt2\01_String\obj\Debug\01_String.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning_Pt2\01_String\obj\Debug\01_String.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning_Pt2\01_String\obj\Debug\01_String.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\01_String\obj\Debug\01_String.pdb
