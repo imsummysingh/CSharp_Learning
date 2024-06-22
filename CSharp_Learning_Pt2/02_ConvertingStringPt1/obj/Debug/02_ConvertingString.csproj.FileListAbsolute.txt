@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning_Pt2\02_ConvertingStringPt1\bin\Debug\02_ConvertingStringPt1.exe.config
+C:\CSharp_Learning\CSharp_Learning_Pt2\02_ConvertingStringPt1\bin\Debug\02_ConvertingStringPt1.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\02_ConvertingStringPt1\bin\Debug\02_ConvertingStringPt1.pdb
+C:\CSharp_Learning\CSharp_Learning_Pt2\02_ConvertingStringPt1\obj\Debug\02_ConvertingString.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning_Pt2\02_ConvertingStringPt1\obj\Debug\02_ConvertingStringPt1.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\02_ConvertingStringPt1\obj\Debug\02_ConvertingStringPt1.pdb
+C:\CSharp_Learning\CSharp_Learning_Pt2\02_ConvertingStringPt1\obj\Debug\02_ConvertingString.csproj.AssemblyReference.cache

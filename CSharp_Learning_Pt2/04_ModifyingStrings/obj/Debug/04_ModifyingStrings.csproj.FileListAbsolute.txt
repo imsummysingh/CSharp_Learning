@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning_Pt2\04_ModifyingStrings\bin\Debug\04_ModifyingStrings.exe.config
+C:\CSharp_Learning\CSharp_Learning_Pt2\04_ModifyingStrings\bin\Debug\04_ModifyingStrings.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\04_ModifyingStrings\bin\Debug\04_ModifyingStrings.pdb
+C:\CSharp_Learning\CSharp_Learning_Pt2\04_ModifyingStrings\obj\Debug\04_ModifyingStrings.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning_Pt2\04_ModifyingStrings\obj\Debug\04_ModifyingStrings.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\04_ModifyingStrings\obj\Debug\04_ModifyingStrings.pdb

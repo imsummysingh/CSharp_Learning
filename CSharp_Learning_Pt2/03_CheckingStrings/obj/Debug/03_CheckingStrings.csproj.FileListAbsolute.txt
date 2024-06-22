@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning_Pt2\03_CheckingStrings\bin\Debug\03_CheckingStrings.exe.config
+C:\CSharp_Learning\CSharp_Learning_Pt2\03_CheckingStrings\bin\Debug\03_CheckingStrings.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\03_CheckingStrings\bin\Debug\03_CheckingStrings.pdb
+C:\CSharp_Learning\CSharp_Learning_Pt2\03_CheckingStrings\obj\Debug\03_CheckingStrings.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning_Pt2\03_CheckingStrings\obj\Debug\03_CheckingStrings.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\03_CheckingStrings\obj\Debug\03_CheckingStrings.pdb
+C:\CSharp_Learning\CSharp_Learning_Pt2\03_CheckingStrings\obj\Debug\03_CheckingStrings.csproj.AssemblyReference.cache

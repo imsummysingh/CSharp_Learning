@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning_Pt2\05_StringForLoop\bin\Debug\05_StringForLoop.exe.config
+C:\CSharp_Learning\CSharp_Learning_Pt2\05_StringForLoop\bin\Debug\05_StringForLoop.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\05_StringForLoop\bin\Debug\05_StringForLoop.pdb
+C:\CSharp_Learning\CSharp_Learning_Pt2\05_StringForLoop\obj\Debug\05_StringForLoop.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning_Pt2\05_StringForLoop\obj\Debug\05_StringForLoop.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\05_StringForLoop\obj\Debug\05_StringForLoop.pdb
