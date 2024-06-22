@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning_Pt2\06_StringBuilder\bin\Debug\06_StringBuilder.exe.config
+C:\CSharp_Learning\CSharp_Learning_Pt2\06_StringBuilder\bin\Debug\06_StringBuilder.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\06_StringBuilder\bin\Debug\06_StringBuilder.pdb
+C:\CSharp_Learning\CSharp_Learning_Pt2\06_StringBuilder\obj\Debug\06_StringBuilder.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning_Pt2\06_StringBuilder\obj\Debug\06_StringBuilder.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning_Pt2\06_StringBuilder\obj\Debug\06_StringBuilder.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\06_StringBuilder\obj\Debug\06_StringBuilder.pdb
