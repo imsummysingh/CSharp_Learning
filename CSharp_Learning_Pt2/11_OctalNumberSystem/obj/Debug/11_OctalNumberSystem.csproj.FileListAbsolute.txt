@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning_Pt2\11_OctalNumberSystem\bin\Debug\11_OctalNumberSystem.exe.config
+C:\CSharp_Learning\CSharp_Learning_Pt2\11_OctalNumberSystem\bin\Debug\11_OctalNumberSystem.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\11_OctalNumberSystem\bin\Debug\11_OctalNumberSystem.pdb
+C:\CSharp_Learning\CSharp_Learning_Pt2\11_OctalNumberSystem\obj\Debug\11_OctalNumberSystem.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning_Pt2\11_OctalNumberSystem\obj\Debug\11_OctalNumberSystem.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\11_OctalNumberSystem\obj\Debug\11_OctalNumberSystem.pdb

@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning_Pt2\12_Hexadeciaml\bin\Debug\12_Hexadeciaml.exe.config
+C:\CSharp_Learning\CSharp_Learning_Pt2\12_Hexadeciaml\bin\Debug\12_Hexadeciaml.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\12_Hexadeciaml\bin\Debug\12_Hexadeciaml.pdb
+C:\CSharp_Learning\CSharp_Learning_Pt2\12_Hexadeciaml\obj\Debug\12_Hexadeciaml.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning_Pt2\12_Hexadeciaml\obj\Debug\12_Hexadeciaml.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\12_Hexadeciaml\obj\Debug\12_Hexadeciaml.pdb

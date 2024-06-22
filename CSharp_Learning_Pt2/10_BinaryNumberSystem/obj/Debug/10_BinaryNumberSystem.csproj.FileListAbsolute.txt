@@ -1,0 +1,7 @@
+C:\CSharp_Learning\CSharp_Learning_Pt2\10_BinaryNumberSystem\bin\Debug\10_BinaryNumberSystem.exe.config
+C:\CSharp_Learning\CSharp_Learning_Pt2\10_BinaryNumberSystem\bin\Debug\10_BinaryNumberSystem.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\10_BinaryNumberSystem\bin\Debug\10_BinaryNumberSystem.pdb
+C:\CSharp_Learning\CSharp_Learning_Pt2\10_BinaryNumberSystem\obj\Debug\10_BinaryNumberSystem.csproj.AssemblyReference.cache
+C:\CSharp_Learning\CSharp_Learning_Pt2\10_BinaryNumberSystem\obj\Debug\10_BinaryNumberSystem.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning_Pt2\10_BinaryNumberSystem\obj\Debug\10_BinaryNumberSystem.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\10_BinaryNumberSystem\obj\Debug\10_BinaryNumberSystem.pdb
