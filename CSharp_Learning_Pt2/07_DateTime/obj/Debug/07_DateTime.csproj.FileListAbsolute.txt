@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning_Pt2\07_DateTime\bin\Debug\07_DateTime.exe.config
+C:\CSharp_Learning\CSharp_Learning_Pt2\07_DateTime\bin\Debug\07_DateTime.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\07_DateTime\bin\Debug\07_DateTime.pdb
+C:\CSharp_Learning\CSharp_Learning_Pt2\07_DateTime\obj\Debug\07_DateTime.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning_Pt2\07_DateTime\obj\Debug\07_DateTime.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\07_DateTime\obj\Debug\07_DateTime.pdb

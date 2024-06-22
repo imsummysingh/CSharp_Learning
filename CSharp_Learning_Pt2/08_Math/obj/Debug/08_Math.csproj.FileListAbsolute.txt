@@ -1,0 +1,6 @@
+C:\CSharp_Learning\CSharp_Learning_Pt2\08_Math\bin\Debug\08_Math.exe.config
+C:\CSharp_Learning\CSharp_Learning_Pt2\08_Math\bin\Debug\08_Math.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\08_Math\bin\Debug\08_Math.pdb
+C:\CSharp_Learning\CSharp_Learning_Pt2\08_Math\obj\Debug\08_Math.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_Learning_Pt2\08_Math\obj\Debug\08_Math.exe
+C:\CSharp_Learning\CSharp_Learning_Pt2\08_Math\obj\Debug\08_Math.pdb
