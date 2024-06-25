@@ -1,0 +1,15 @@
+C:\CSharp_Learning\CSharp_8_9\04_ModuleInitializer\obj\Debug\net8.0\04_ModuleInitializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Learning\CSharp_8_9\04_ModuleInitializer\obj\Debug\net8.0\04_ModuleInitializer.AssemblyInfoInputs.cache
+C:\CSharp_Learning\CSharp_8_9\04_ModuleInitializer\obj\Debug\net8.0\04_ModuleInitializer.AssemblyInfo.cs
+C:\CSharp_Learning\CSharp_8_9\04_ModuleInitializer\obj\Debug\net8.0\04_ModuleInitializer.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_8_9\04_ModuleInitializer\obj\Debug\net8.0\04_ModuleInitializer.sourcelink.json
+C:\CSharp_Learning\CSharp_8_9\04_ModuleInitializer\bin\Debug\net8.0\04_ModuleInitializer.exe
+C:\CSharp_Learning\CSharp_8_9\04_ModuleInitializer\bin\Debug\net8.0\04_ModuleInitializer.deps.json
+C:\CSharp_Learning\CSharp_8_9\04_ModuleInitializer\bin\Debug\net8.0\04_ModuleInitializer.runtimeconfig.json
+C:\CSharp_Learning\CSharp_8_9\04_ModuleInitializer\bin\Debug\net8.0\04_ModuleInitializer.dll
+C:\CSharp_Learning\CSharp_8_9\04_ModuleInitializer\bin\Debug\net8.0\04_ModuleInitializer.pdb
+C:\CSharp_Learning\CSharp_8_9\04_ModuleInitializer\obj\Debug\net8.0\04_ModuleInitializer.dll
+C:\CSharp_Learning\CSharp_8_9\04_ModuleInitializer\obj\Debug\net8.0\refint\04_ModuleInitializer.dll
+C:\CSharp_Learning\CSharp_8_9\04_ModuleInitializer\obj\Debug\net8.0\04_ModuleInitializer.pdb
+C:\CSharp_Learning\CSharp_8_9\04_ModuleInitializer\obj\Debug\net8.0\04_ModuleInitializer.genruntimeconfig.cache
+C:\CSharp_Learning\CSharp_8_9\04_ModuleInitializer\obj\Debug\net8.0\ref\04_ModuleInitializer.dll

@@ -1,0 +1,15 @@
+C:\CSharp_Learning\CSharp_8_9\03_GlobalDirective\bin\Debug\net8.0\03_GlobalDirective.exe
+C:\CSharp_Learning\CSharp_8_9\03_GlobalDirective\bin\Debug\net8.0\03_GlobalDirective.deps.json
+C:\CSharp_Learning\CSharp_8_9\03_GlobalDirective\bin\Debug\net8.0\03_GlobalDirective.runtimeconfig.json
+C:\CSharp_Learning\CSharp_8_9\03_GlobalDirective\bin\Debug\net8.0\03_GlobalDirective.dll
+C:\CSharp_Learning\CSharp_8_9\03_GlobalDirective\bin\Debug\net8.0\03_GlobalDirective.pdb
+C:\CSharp_Learning\CSharp_8_9\03_GlobalDirective\obj\Debug\net8.0\03_GlobalDirective.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Learning\CSharp_8_9\03_GlobalDirective\obj\Debug\net8.0\03_GlobalDirective.AssemblyInfoInputs.cache
+C:\CSharp_Learning\CSharp_8_9\03_GlobalDirective\obj\Debug\net8.0\03_GlobalDirective.AssemblyInfo.cs
+C:\CSharp_Learning\CSharp_8_9\03_GlobalDirective\obj\Debug\net8.0\03_GlobalDirective.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_8_9\03_GlobalDirective\obj\Debug\net8.0\03_GlobalDirective.sourcelink.json
+C:\CSharp_Learning\CSharp_8_9\03_GlobalDirective\obj\Debug\net8.0\03_GlobalDirective.dll
+C:\CSharp_Learning\CSharp_8_9\03_GlobalDirective\obj\Debug\net8.0\refint\03_GlobalDirective.dll
+C:\CSharp_Learning\CSharp_8_9\03_GlobalDirective\obj\Debug\net8.0\03_GlobalDirective.pdb
+C:\CSharp_Learning\CSharp_8_9\03_GlobalDirective\obj\Debug\net8.0\03_GlobalDirective.genruntimeconfig.cache
+C:\CSharp_Learning\CSharp_8_9\03_GlobalDirective\obj\Debug\net8.0\ref\03_GlobalDirective.dll

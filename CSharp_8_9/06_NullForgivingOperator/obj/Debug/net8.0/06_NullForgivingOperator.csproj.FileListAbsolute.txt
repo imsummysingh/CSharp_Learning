@@ -1,0 +1,15 @@
+C:\CSharp_Learning\CSharp_8_9\06_NullForgivingOperator\bin\Debug\net8.0\06_NullForgivingOperator.exe
+C:\CSharp_Learning\CSharp_8_9\06_NullForgivingOperator\bin\Debug\net8.0\06_NullForgivingOperator.deps.json
+C:\CSharp_Learning\CSharp_8_9\06_NullForgivingOperator\bin\Debug\net8.0\06_NullForgivingOperator.runtimeconfig.json
+C:\CSharp_Learning\CSharp_8_9\06_NullForgivingOperator\bin\Debug\net8.0\06_NullForgivingOperator.dll
+C:\CSharp_Learning\CSharp_8_9\06_NullForgivingOperator\bin\Debug\net8.0\06_NullForgivingOperator.pdb
+C:\CSharp_Learning\CSharp_8_9\06_NullForgivingOperator\obj\Debug\net8.0\06_NullForgivingOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Learning\CSharp_8_9\06_NullForgivingOperator\obj\Debug\net8.0\06_NullForgivingOperator.AssemblyInfoInputs.cache
+C:\CSharp_Learning\CSharp_8_9\06_NullForgivingOperator\obj\Debug\net8.0\06_NullForgivingOperator.AssemblyInfo.cs
+C:\CSharp_Learning\CSharp_8_9\06_NullForgivingOperator\obj\Debug\net8.0\06_NullForgivingOperator.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_8_9\06_NullForgivingOperator\obj\Debug\net8.0\06_NullForgivingOperator.sourcelink.json
+C:\CSharp_Learning\CSharp_8_9\06_NullForgivingOperator\obj\Debug\net8.0\06_NullForgivingOperator.dll
+C:\CSharp_Learning\CSharp_8_9\06_NullForgivingOperator\obj\Debug\net8.0\refint\06_NullForgivingOperator.dll
+C:\CSharp_Learning\CSharp_8_9\06_NullForgivingOperator\obj\Debug\net8.0\06_NullForgivingOperator.pdb
+C:\CSharp_Learning\CSharp_8_9\06_NullForgivingOperator\obj\Debug\net8.0\06_NullForgivingOperator.genruntimeconfig.cache
+C:\CSharp_Learning\CSharp_8_9\06_NullForgivingOperator\obj\Debug\net8.0\ref\06_NullForgivingOperator.dll

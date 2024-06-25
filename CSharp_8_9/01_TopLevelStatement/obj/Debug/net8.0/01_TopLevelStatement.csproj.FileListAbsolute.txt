@@ -1,0 +1,15 @@
+C:\CSharp_Learning\CSharp_8_9\01_TopLevelStatement\bin\Debug\net8.0\01_TopLevelStatement.exe
+C:\CSharp_Learning\CSharp_8_9\01_TopLevelStatement\bin\Debug\net8.0\01_TopLevelStatement.deps.json
+C:\CSharp_Learning\CSharp_8_9\01_TopLevelStatement\bin\Debug\net8.0\01_TopLevelStatement.runtimeconfig.json
+C:\CSharp_Learning\CSharp_8_9\01_TopLevelStatement\bin\Debug\net8.0\01_TopLevelStatement.dll
+C:\CSharp_Learning\CSharp_8_9\01_TopLevelStatement\bin\Debug\net8.0\01_TopLevelStatement.pdb
+C:\CSharp_Learning\CSharp_8_9\01_TopLevelStatement\obj\Debug\net8.0\01_TopLevelStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Learning\CSharp_8_9\01_TopLevelStatement\obj\Debug\net8.0\01_TopLevelStatement.AssemblyInfoInputs.cache
+C:\CSharp_Learning\CSharp_8_9\01_TopLevelStatement\obj\Debug\net8.0\01_TopLevelStatement.AssemblyInfo.cs
+C:\CSharp_Learning\CSharp_8_9\01_TopLevelStatement\obj\Debug\net8.0\01_TopLevelStatement.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_8_9\01_TopLevelStatement\obj\Debug\net8.0\01_TopLevelStatement.sourcelink.json
+C:\CSharp_Learning\CSharp_8_9\01_TopLevelStatement\obj\Debug\net8.0\01_TopLevelStatement.dll
+C:\CSharp_Learning\CSharp_8_9\01_TopLevelStatement\obj\Debug\net8.0\refint\01_TopLevelStatement.dll
+C:\CSharp_Learning\CSharp_8_9\01_TopLevelStatement\obj\Debug\net8.0\01_TopLevelStatement.pdb
+C:\CSharp_Learning\CSharp_8_9\01_TopLevelStatement\obj\Debug\net8.0\01_TopLevelStatement.genruntimeconfig.cache
+C:\CSharp_Learning\CSharp_8_9\01_TopLevelStatement\obj\Debug\net8.0\ref\01_TopLevelStatement.dll

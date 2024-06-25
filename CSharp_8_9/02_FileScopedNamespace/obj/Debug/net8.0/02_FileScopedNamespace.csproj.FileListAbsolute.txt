@@ -1,0 +1,15 @@
+C:\CSharp_Learning\CSharp_8_9\02_FileScopedNamespace\bin\Debug\net8.0\02_FileScopedNamespace.exe
+C:\CSharp_Learning\CSharp_8_9\02_FileScopedNamespace\bin\Debug\net8.0\02_FileScopedNamespace.deps.json
+C:\CSharp_Learning\CSharp_8_9\02_FileScopedNamespace\bin\Debug\net8.0\02_FileScopedNamespace.runtimeconfig.json
+C:\CSharp_Learning\CSharp_8_9\02_FileScopedNamespace\bin\Debug\net8.0\02_FileScopedNamespace.dll
+C:\CSharp_Learning\CSharp_8_9\02_FileScopedNamespace\bin\Debug\net8.0\02_FileScopedNamespace.pdb
+C:\CSharp_Learning\CSharp_8_9\02_FileScopedNamespace\obj\Debug\net8.0\02_FileScopedNamespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Learning\CSharp_8_9\02_FileScopedNamespace\obj\Debug\net8.0\02_FileScopedNamespace.AssemblyInfoInputs.cache
+C:\CSharp_Learning\CSharp_8_9\02_FileScopedNamespace\obj\Debug\net8.0\02_FileScopedNamespace.AssemblyInfo.cs
+C:\CSharp_Learning\CSharp_8_9\02_FileScopedNamespace\obj\Debug\net8.0\02_FileScopedNamespace.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_8_9\02_FileScopedNamespace\obj\Debug\net8.0\02_FileScopedNamespace.sourcelink.json
+C:\CSharp_Learning\CSharp_8_9\02_FileScopedNamespace\obj\Debug\net8.0\02_FileScopedNamespace.dll
+C:\CSharp_Learning\CSharp_8_9\02_FileScopedNamespace\obj\Debug\net8.0\refint\02_FileScopedNamespace.dll
+C:\CSharp_Learning\CSharp_8_9\02_FileScopedNamespace\obj\Debug\net8.0\02_FileScopedNamespace.pdb
+C:\CSharp_Learning\CSharp_8_9\02_FileScopedNamespace\obj\Debug\net8.0\02_FileScopedNamespace.genruntimeconfig.cache
+C:\CSharp_Learning\CSharp_8_9\02_FileScopedNamespace\obj\Debug\net8.0\ref\02_FileScopedNamespace.dll
