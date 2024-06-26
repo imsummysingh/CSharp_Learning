@@ -1,0 +1,15 @@
+C:\CSharp_Learning\CSharp_8_9\09_SingleThreadedApp\bin\Debug\net8.0\09_SingleThreadedApp.exe
+C:\CSharp_Learning\CSharp_8_9\09_SingleThreadedApp\bin\Debug\net8.0\09_SingleThreadedApp.deps.json
+C:\CSharp_Learning\CSharp_8_9\09_SingleThreadedApp\bin\Debug\net8.0\09_SingleThreadedApp.runtimeconfig.json
+C:\CSharp_Learning\CSharp_8_9\09_SingleThreadedApp\bin\Debug\net8.0\09_SingleThreadedApp.dll
+C:\CSharp_Learning\CSharp_8_9\09_SingleThreadedApp\bin\Debug\net8.0\09_SingleThreadedApp.pdb
+C:\CSharp_Learning\CSharp_8_9\09_SingleThreadedApp\obj\Debug\net8.0\09_SingleThreadedApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Learning\CSharp_8_9\09_SingleThreadedApp\obj\Debug\net8.0\09_SingleThreadedApp.AssemblyInfoInputs.cache
+C:\CSharp_Learning\CSharp_8_9\09_SingleThreadedApp\obj\Debug\net8.0\09_SingleThreadedApp.AssemblyInfo.cs
+C:\CSharp_Learning\CSharp_8_9\09_SingleThreadedApp\obj\Debug\net8.0\09_SingleThreadedApp.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_8_9\09_SingleThreadedApp\obj\Debug\net8.0\09_SingleThreadedApp.sourcelink.json
+C:\CSharp_Learning\CSharp_8_9\09_SingleThreadedApp\obj\Debug\net8.0\09_SingleThreadedApp.dll
+C:\CSharp_Learning\CSharp_8_9\09_SingleThreadedApp\obj\Debug\net8.0\refint\09_SingleThreadedApp.dll
+C:\CSharp_Learning\CSharp_8_9\09_SingleThreadedApp\obj\Debug\net8.0\09_SingleThreadedApp.pdb
+C:\CSharp_Learning\CSharp_8_9\09_SingleThreadedApp\obj\Debug\net8.0\09_SingleThreadedApp.genruntimeconfig.cache
+C:\CSharp_Learning\CSharp_8_9\09_SingleThreadedApp\obj\Debug\net8.0\ref\09_SingleThreadedApp.dll

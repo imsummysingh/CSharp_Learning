@@ -1,0 +1,15 @@
+C:\CSharp_Learning\CSharp_8_9\07_ThreadingApp\bin\Debug\net8.0\07_ThreadingApp.exe
+C:\CSharp_Learning\CSharp_8_9\07_ThreadingApp\bin\Debug\net8.0\07_ThreadingApp.deps.json
+C:\CSharp_Learning\CSharp_8_9\07_ThreadingApp\bin\Debug\net8.0\07_ThreadingApp.runtimeconfig.json
+C:\CSharp_Learning\CSharp_8_9\07_ThreadingApp\bin\Debug\net8.0\07_ThreadingApp.dll
+C:\CSharp_Learning\CSharp_8_9\07_ThreadingApp\bin\Debug\net8.0\07_ThreadingApp.pdb
+C:\CSharp_Learning\CSharp_8_9\07_ThreadingApp\obj\Debug\net8.0\07_ThreadingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Learning\CSharp_8_9\07_ThreadingApp\obj\Debug\net8.0\07_ThreadingApp.AssemblyInfoInputs.cache
+C:\CSharp_Learning\CSharp_8_9\07_ThreadingApp\obj\Debug\net8.0\07_ThreadingApp.AssemblyInfo.cs
+C:\CSharp_Learning\CSharp_8_9\07_ThreadingApp\obj\Debug\net8.0\07_ThreadingApp.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_8_9\07_ThreadingApp\obj\Debug\net8.0\07_ThreadingApp.sourcelink.json
+C:\CSharp_Learning\CSharp_8_9\07_ThreadingApp\obj\Debug\net8.0\07_ThreadingApp.dll
+C:\CSharp_Learning\CSharp_8_9\07_ThreadingApp\obj\Debug\net8.0\refint\07_ThreadingApp.dll
+C:\CSharp_Learning\CSharp_8_9\07_ThreadingApp\obj\Debug\net8.0\07_ThreadingApp.pdb
+C:\CSharp_Learning\CSharp_8_9\07_ThreadingApp\obj\Debug\net8.0\07_ThreadingApp.genruntimeconfig.cache
+C:\CSharp_Learning\CSharp_8_9\07_ThreadingApp\obj\Debug\net8.0\ref\07_ThreadingApp.dll

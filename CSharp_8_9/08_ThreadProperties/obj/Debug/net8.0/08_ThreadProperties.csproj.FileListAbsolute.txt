@@ -1,0 +1,15 @@
+C:\CSharp_Learning\CSharp_8_9\08_ThreadProperties\bin\Debug\net8.0\08_ThreadProperties.exe
+C:\CSharp_Learning\CSharp_8_9\08_ThreadProperties\bin\Debug\net8.0\08_ThreadProperties.deps.json
+C:\CSharp_Learning\CSharp_8_9\08_ThreadProperties\bin\Debug\net8.0\08_ThreadProperties.runtimeconfig.json
+C:\CSharp_Learning\CSharp_8_9\08_ThreadProperties\bin\Debug\net8.0\08_ThreadProperties.dll
+C:\CSharp_Learning\CSharp_8_9\08_ThreadProperties\bin\Debug\net8.0\08_ThreadProperties.pdb
+C:\CSharp_Learning\CSharp_8_9\08_ThreadProperties\obj\Debug\net8.0\08_ThreadProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Learning\CSharp_8_9\08_ThreadProperties\obj\Debug\net8.0\08_ThreadProperties.AssemblyInfoInputs.cache
+C:\CSharp_Learning\CSharp_8_9\08_ThreadProperties\obj\Debug\net8.0\08_ThreadProperties.AssemblyInfo.cs
+C:\CSharp_Learning\CSharp_8_9\08_ThreadProperties\obj\Debug\net8.0\08_ThreadProperties.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_8_9\08_ThreadProperties\obj\Debug\net8.0\08_ThreadProperties.sourcelink.json
+C:\CSharp_Learning\CSharp_8_9\08_ThreadProperties\obj\Debug\net8.0\08_ThreadProperties.dll
+C:\CSharp_Learning\CSharp_8_9\08_ThreadProperties\obj\Debug\net8.0\refint\08_ThreadProperties.dll
+C:\CSharp_Learning\CSharp_8_9\08_ThreadProperties\obj\Debug\net8.0\08_ThreadProperties.pdb
+C:\CSharp_Learning\CSharp_8_9\08_ThreadProperties\obj\Debug\net8.0\08_ThreadProperties.genruntimeconfig.cache
+C:\CSharp_Learning\CSharp_8_9\08_ThreadProperties\obj\Debug\net8.0\ref\08_ThreadProperties.dll

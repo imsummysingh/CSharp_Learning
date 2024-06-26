@@ -3,17 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_TopLevelStatement", "01_TopLevelStatement\01_TopLevelStatement.csproj", "{FFC92BF6-9753-4A5C-83D8-840FC69244C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_TopLevelStatement", "01_TopLevelStatement\01_TopLevelStatement.csproj", "{FFC92BF6-9753-4A5C-83D8-840FC69244C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_FileScopedNamespace", "02_FileScopedNamespace\02_FileScopedNamespace.csproj", "{BDD99027-C39F-4CDF-94E7-0A83847DFA1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02_FileScopedNamespace", "02_FileScopedNamespace\02_FileScopedNamespace.csproj", "{BDD99027-C39F-4CDF-94E7-0A83847DFA1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_GlobalDirective", "03_GlobalDirective\03_GlobalDirective.csproj", "{469407C5-D726-41B3-9F60-E03DEA8DBCC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03_GlobalDirective", "03_GlobalDirective\03_GlobalDirective.csproj", "{469407C5-D726-41B3-9F60-E03DEA8DBCC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_ModuleInitializer", "04_ModuleInitializer\04_ModuleInitializer.csproj", "{1CCC2970-12BB-479D-A5AB-565371764B8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04_ModuleInitializer", "04_ModuleInitializer\04_ModuleInitializer.csproj", "{1CCC2970-12BB-479D-A5AB-565371764B8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_NullReferenceType", "05_NullReferenceType\05_NullReferenceType.csproj", "{CB3673CF-84F4-4B12-BEDA-B237F513329A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05_NullReferenceType", "05_NullReferenceType\05_NullReferenceType.csproj", "{CB3673CF-84F4-4B12-BEDA-B237F513329A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_NullForgivingOperator", "06_NullForgivingOperator\06_NullForgivingOperator.csproj", "{3FC2C98E-4DB7-4E4B-8626-40E73F17949D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06_NullForgivingOperator", "06_NullForgivingOperator\06_NullForgivingOperator.csproj", "{3FC2C98E-4DB7-4E4B-8626-40E73F17949D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ThreadingApp", "07_ThreadingApp\07_ThreadingApp.csproj", "{DADB07AF-7B65-4CB6-8EFE-92B26C4B2DAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_ThreadProperties", "08_ThreadProperties\08_ThreadProperties.csproj", "{EB21B543-E228-4D73-AF5D-6CF9AF534584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_SingleThreadedApp", "09_SingleThreadedApp\09_SingleThreadedApp.csproj", "{F952C4BE-4C28-4A3D-ABF3-09624F6EE678}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{3FC2C98E-4DB7-4E4B-8626-40E73F17949D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FC2C98E-4DB7-4E4B-8626-40E73F17949D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FC2C98E-4DB7-4E4B-8626-40E73F17949D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DADB07AF-7B65-4CB6-8EFE-92B26C4B2DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DADB07AF-7B65-4CB6-8EFE-92B26C4B2DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DADB07AF-7B65-4CB6-8EFE-92B26C4B2DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DADB07AF-7B65-4CB6-8EFE-92B26C4B2DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB21B543-E228-4D73-AF5D-6CF9AF534584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB21B543-E228-4D73-AF5D-6CF9AF534584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB21B543-E228-4D73-AF5D-6CF9AF534584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB21B543-E228-4D73-AF5D-6CF9AF534584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F952C4BE-4C28-4A3D-ABF3-09624F6EE678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F952C4BE-4C28-4A3D-ABF3-09624F6EE678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F952C4BE-4C28-4A3D-ABF3-09624F6EE678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F952C4BE-4C28-4A3D-ABF3-09624F6EE678}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
