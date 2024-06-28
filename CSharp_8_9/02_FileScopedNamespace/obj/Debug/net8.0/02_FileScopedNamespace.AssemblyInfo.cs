@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02_FileScopedNamespace")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6ddff589c2b7a4a153317fb15a99babfd00f227")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbde2061b93cc35afb9a0dc5b15f64127b153c89")]
 [assembly: System.Reflection.AssemblyProductAttribute("02_FileScopedNamespace")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02_FileScopedNamespace")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

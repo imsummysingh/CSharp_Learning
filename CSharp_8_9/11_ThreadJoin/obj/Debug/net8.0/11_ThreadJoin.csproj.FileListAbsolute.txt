@@ -1,0 +1,15 @@
+C:\CSharp_Learning\CSharp_8_9\11_ThreadJoin\bin\Debug\net8.0\11_ThreadJoin.exe
+C:\CSharp_Learning\CSharp_8_9\11_ThreadJoin\bin\Debug\net8.0\11_ThreadJoin.deps.json
+C:\CSharp_Learning\CSharp_8_9\11_ThreadJoin\bin\Debug\net8.0\11_ThreadJoin.runtimeconfig.json
+C:\CSharp_Learning\CSharp_8_9\11_ThreadJoin\bin\Debug\net8.0\11_ThreadJoin.dll
+C:\CSharp_Learning\CSharp_8_9\11_ThreadJoin\bin\Debug\net8.0\11_ThreadJoin.pdb
+C:\CSharp_Learning\CSharp_8_9\11_ThreadJoin\obj\Debug\net8.0\11_ThreadJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Learning\CSharp_8_9\11_ThreadJoin\obj\Debug\net8.0\11_ThreadJoin.AssemblyInfoInputs.cache
+C:\CSharp_Learning\CSharp_8_9\11_ThreadJoin\obj\Debug\net8.0\11_ThreadJoin.AssemblyInfo.cs
+C:\CSharp_Learning\CSharp_8_9\11_ThreadJoin\obj\Debug\net8.0\11_ThreadJoin.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_8_9\11_ThreadJoin\obj\Debug\net8.0\11_ThreadJoin.sourcelink.json
+C:\CSharp_Learning\CSharp_8_9\11_ThreadJoin\obj\Debug\net8.0\11_ThreadJoin.dll
+C:\CSharp_Learning\CSharp_8_9\11_ThreadJoin\obj\Debug\net8.0\refint\11_ThreadJoin.dll
+C:\CSharp_Learning\CSharp_8_9\11_ThreadJoin\obj\Debug\net8.0\11_ThreadJoin.pdb
+C:\CSharp_Learning\CSharp_8_9\11_ThreadJoin\obj\Debug\net8.0\11_ThreadJoin.genruntimeconfig.cache
+C:\CSharp_Learning\CSharp_8_9\11_ThreadJoin\obj\Debug\net8.0\ref\11_ThreadJoin.dll

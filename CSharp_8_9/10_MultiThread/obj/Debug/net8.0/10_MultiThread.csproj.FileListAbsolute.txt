@@ -1,0 +1,15 @@
+C:\CSharp_Learning\CSharp_8_9\10_MultiThread\bin\Debug\net8.0\10_MultiThread.exe
+C:\CSharp_Learning\CSharp_8_9\10_MultiThread\bin\Debug\net8.0\10_MultiThread.deps.json
+C:\CSharp_Learning\CSharp_8_9\10_MultiThread\bin\Debug\net8.0\10_MultiThread.runtimeconfig.json
+C:\CSharp_Learning\CSharp_8_9\10_MultiThread\bin\Debug\net8.0\10_MultiThread.dll
+C:\CSharp_Learning\CSharp_8_9\10_MultiThread\bin\Debug\net8.0\10_MultiThread.pdb
+C:\CSharp_Learning\CSharp_8_9\10_MultiThread\obj\Debug\net8.0\10_MultiThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Learning\CSharp_8_9\10_MultiThread\obj\Debug\net8.0\10_MultiThread.AssemblyInfoInputs.cache
+C:\CSharp_Learning\CSharp_8_9\10_MultiThread\obj\Debug\net8.0\10_MultiThread.AssemblyInfo.cs
+C:\CSharp_Learning\CSharp_8_9\10_MultiThread\obj\Debug\net8.0\10_MultiThread.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_8_9\10_MultiThread\obj\Debug\net8.0\10_MultiThread.sourcelink.json
+C:\CSharp_Learning\CSharp_8_9\10_MultiThread\obj\Debug\net8.0\10_MultiThread.dll
+C:\CSharp_Learning\CSharp_8_9\10_MultiThread\obj\Debug\net8.0\refint\10_MultiThread.dll
+C:\CSharp_Learning\CSharp_8_9\10_MultiThread\obj\Debug\net8.0\10_MultiThread.pdb
+C:\CSharp_Learning\CSharp_8_9\10_MultiThread\obj\Debug\net8.0\10_MultiThread.genruntimeconfig.cache
+C:\CSharp_Learning\CSharp_8_9\10_MultiThread\obj\Debug\net8.0\ref\10_MultiThread.dll

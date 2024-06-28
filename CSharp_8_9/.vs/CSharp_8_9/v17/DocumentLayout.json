@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\CSharp_Learning\\CSharp_8_9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F952C4BE-4C28-4A3D-ABF3-09624F6EE678}|09_SingleThreadedApp\\09_SingleThreadedApp.csproj|c:\\csharp_learning\\csharp_8_9\\09_singlethreadedapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F952C4BE-4C28-4A3D-ABF3-09624F6EE678}|09_SingleThreadedApp\\09_SingleThreadedApp.csproj|solutionrelative:09_singlethreadedapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8320A1E6-6203-47DE-BAED-03B3B78135D7}|11_ThreadJoin\\11_ThreadJoin.csproj|c:\\csharp_learning\\csharp_8_9\\11_threadjoin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8320A1E6-6203-47DE-BAED-03B3B78135D7}|11_ThreadJoin\\11_ThreadJoin.csproj|solutionrelative:11_threadjoin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92328403-20ED-48FC-AAF1-1B308130B19E}|10_MultiThread\\10_MultiThread.csproj|c:\\csharp_learning\\csharp_8_9\\10_multithread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92328403-20ED-48FC-AAF1-1B308130B19E}|10_MultiThread\\10_MultiThread.csproj|solutionrelative:10_multithread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CSharp_Learning\\CSharp_8_9\\09_SingleThreadedApp\\Program.cs",
-              "RelativeDocumentMoniker": "09_SingleThreadedApp\\Program.cs",
-              "ToolTip": "C:\\CSharp_Learning\\CSharp_8_9\\09_SingleThreadedApp\\Program.cs",
-              "RelativeToolTip": "09_SingleThreadedApp\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBgAAAAWAAAA",
+              "DocumentMoniker": "C:\\CSharp_Learning\\CSharp_8_9\\11_ThreadJoin\\Program.cs",
+              "RelativeDocumentMoniker": "11_ThreadJoin\\Program.cs",
+              "ToolTip": "C:\\CSharp_Learning\\CSharp_8_9\\11_ThreadJoin\\Program.cs",
+              "RelativeToolTip": "11_ThreadJoin\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAwEIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:23:43.565Z",
+              "WhenOpened": "2024-06-28T13:51:59.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharp_Learning\\CSharp_8_9\\10_MultiThread\\Program.cs",
+              "RelativeDocumentMoniker": "10_MultiThread\\Program.cs",
+              "ToolTip": "C:\\CSharp_Learning\\CSharp_8_9\\10_MultiThread\\Program.cs",
+              "RelativeToolTip": "10_MultiThread\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvzsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:40:25.677Z",
               "EditorCaption": ""
             }
           ]
