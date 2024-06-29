@@ -1,0 +1,15 @@
+C:\CSharp_Learning\CSharp_8_9\13_ThreadInterrupt\bin\Debug\net8.0\13_ThreadInterrupt.exe
+C:\CSharp_Learning\CSharp_8_9\13_ThreadInterrupt\bin\Debug\net8.0\13_ThreadInterrupt.deps.json
+C:\CSharp_Learning\CSharp_8_9\13_ThreadInterrupt\bin\Debug\net8.0\13_ThreadInterrupt.runtimeconfig.json
+C:\CSharp_Learning\CSharp_8_9\13_ThreadInterrupt\bin\Debug\net8.0\13_ThreadInterrupt.dll
+C:\CSharp_Learning\CSharp_8_9\13_ThreadInterrupt\bin\Debug\net8.0\13_ThreadInterrupt.pdb
+C:\CSharp_Learning\CSharp_8_9\13_ThreadInterrupt\obj\Debug\net8.0\13_ThreadInterrupt.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Learning\CSharp_8_9\13_ThreadInterrupt\obj\Debug\net8.0\13_ThreadInterrupt.AssemblyInfoInputs.cache
+C:\CSharp_Learning\CSharp_8_9\13_ThreadInterrupt\obj\Debug\net8.0\13_ThreadInterrupt.AssemblyInfo.cs
+C:\CSharp_Learning\CSharp_8_9\13_ThreadInterrupt\obj\Debug\net8.0\13_ThreadInterrupt.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_8_9\13_ThreadInterrupt\obj\Debug\net8.0\13_ThreadInterrupt.sourcelink.json
+C:\CSharp_Learning\CSharp_8_9\13_ThreadInterrupt\obj\Debug\net8.0\13_ThreadInterrupt.dll
+C:\CSharp_Learning\CSharp_8_9\13_ThreadInterrupt\obj\Debug\net8.0\refint\13_ThreadInterrupt.dll
+C:\CSharp_Learning\CSharp_8_9\13_ThreadInterrupt\obj\Debug\net8.0\13_ThreadInterrupt.pdb
+C:\CSharp_Learning\CSharp_8_9\13_ThreadInterrupt\obj\Debug\net8.0\13_ThreadInterrupt.genruntimeconfig.cache
+C:\CSharp_Learning\CSharp_8_9\13_ThreadInterrupt\obj\Debug\net8.0\ref\13_ThreadInterrupt.dll

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\CSharp_Learning\\CSharp_8_9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8320A1E6-6203-47DE-BAED-03B3B78135D7}|11_ThreadJoin\\11_ThreadJoin.csproj|c:\\csharp_learning\\csharp_8_9\\11_threadjoin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8320A1E6-6203-47DE-BAED-03B3B78135D7}|11_ThreadJoin\\11_ThreadJoin.csproj|solutionrelative:11_threadjoin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D0F4F13-C1FD-4B82-B84B-593259A7D393}|16_CustomThreadObject\\16_CustomThreadObject.csproj|c:\\csharp_learning\\csharp_8_9\\16_customthreadobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D0F4F13-C1FD-4B82-B84B-593259A7D393}|16_CustomThreadObject\\16_CustomThreadObject.csproj|solutionrelative:16_customthreadobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92328403-20ED-48FC-AAF1-1B308130B19E}|10_MultiThread\\10_MultiThread.csproj|c:\\csharp_learning\\csharp_8_9\\10_multithread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92328403-20ED-48FC-AAF1-1B308130B19E}|10_MultiThread\\10_MultiThread.csproj|solutionrelative:10_multithread\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E323D4B7-7E6F-498D-9638-4C291E6776AD}|15_ParameterizedThreadStart\\15_ParameterizedThreadStart.csproj|c:\\csharp_learning\\csharp_8_9\\15_parameterizedthreadstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E323D4B7-7E6F-498D-9638-4C291E6776AD}|15_ParameterizedThreadStart\\15_ParameterizedThreadStart.csproj|solutionrelative:15_parameterizedthreadstart\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,26 +28,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CSharp_Learning\\CSharp_8_9\\11_ThreadJoin\\Program.cs",
-              "RelativeDocumentMoniker": "11_ThreadJoin\\Program.cs",
-              "ToolTip": "C:\\CSharp_Learning\\CSharp_8_9\\11_ThreadJoin\\Program.cs",
-              "RelativeToolTip": "11_ThreadJoin\\Program.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAwEIAAAASAAAA",
+              "DocumentMoniker": "C:\\CSharp_Learning\\CSharp_8_9\\16_CustomThreadObject\\Program.cs",
+              "RelativeDocumentMoniker": "16_CustomThreadObject\\Program.cs",
+              "ToolTip": "C:\\CSharp_Learning\\CSharp_8_9\\16_CustomThreadObject\\Program.cs",
+              "RelativeToolTip": "16_CustomThreadObject\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAADwv0wAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T13:51:59.839Z",
+              "WhenOpened": "2024-06-29T13:35:38.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CSharp_Learning\\CSharp_8_9\\10_MultiThread\\Program.cs",
-              "RelativeDocumentMoniker": "10_MultiThread\\Program.cs",
-              "ToolTip": "C:\\CSharp_Learning\\CSharp_8_9\\10_MultiThread\\Program.cs",
-              "RelativeToolTip": "10_MultiThread\\Program.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAADwvzsAAAA6AAAA",
+              "DocumentMoniker": "C:\\CSharp_Learning\\CSharp_8_9\\15_ParameterizedThreadStart\\Program.cs",
+              "RelativeDocumentMoniker": "15_ParameterizedThreadStart\\Program.cs",
+              "ToolTip": "C:\\CSharp_Learning\\CSharp_8_9\\15_ParameterizedThreadStart\\Program.cs",
+              "RelativeToolTip": "15_ParameterizedThreadStart\\Program.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAADwv1UAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T13:40:25.677Z",
+              "WhenOpened": "2024-06-29T13:18:45.279Z",
               "EditorCaption": ""
             }
           ]

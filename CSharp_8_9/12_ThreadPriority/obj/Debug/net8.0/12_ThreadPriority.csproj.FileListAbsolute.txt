@@ -1,0 +1,15 @@
+C:\CSharp_Learning\CSharp_8_9\12_ThreadPriority\bin\Debug\net8.0\12_ThreadPriority.exe
+C:\CSharp_Learning\CSharp_8_9\12_ThreadPriority\bin\Debug\net8.0\12_ThreadPriority.deps.json
+C:\CSharp_Learning\CSharp_8_9\12_ThreadPriority\bin\Debug\net8.0\12_ThreadPriority.runtimeconfig.json
+C:\CSharp_Learning\CSharp_8_9\12_ThreadPriority\bin\Debug\net8.0\12_ThreadPriority.dll
+C:\CSharp_Learning\CSharp_8_9\12_ThreadPriority\bin\Debug\net8.0\12_ThreadPriority.pdb
+C:\CSharp_Learning\CSharp_8_9\12_ThreadPriority\obj\Debug\net8.0\12_ThreadPriority.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Learning\CSharp_8_9\12_ThreadPriority\obj\Debug\net8.0\12_ThreadPriority.AssemblyInfoInputs.cache
+C:\CSharp_Learning\CSharp_8_9\12_ThreadPriority\obj\Debug\net8.0\12_ThreadPriority.AssemblyInfo.cs
+C:\CSharp_Learning\CSharp_8_9\12_ThreadPriority\obj\Debug\net8.0\12_ThreadPriority.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_8_9\12_ThreadPriority\obj\Debug\net8.0\12_ThreadPriority.sourcelink.json
+C:\CSharp_Learning\CSharp_8_9\12_ThreadPriority\obj\Debug\net8.0\12_ThreadPriority.dll
+C:\CSharp_Learning\CSharp_8_9\12_ThreadPriority\obj\Debug\net8.0\refint\12_ThreadPriority.dll
+C:\CSharp_Learning\CSharp_8_9\12_ThreadPriority\obj\Debug\net8.0\12_ThreadPriority.pdb
+C:\CSharp_Learning\CSharp_8_9\12_ThreadPriority\obj\Debug\net8.0\12_ThreadPriority.genruntimeconfig.cache
+C:\CSharp_Learning\CSharp_8_9\12_ThreadPriority\obj\Debug\net8.0\ref\12_ThreadPriority.dll

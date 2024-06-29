@@ -1,0 +1,15 @@
+C:\CSharp_Learning\CSharp_8_9\16_CustomThreadObject\bin\Debug\net8.0\16_CustomThreadObject.exe
+C:\CSharp_Learning\CSharp_8_9\16_CustomThreadObject\bin\Debug\net8.0\16_CustomThreadObject.deps.json
+C:\CSharp_Learning\CSharp_8_9\16_CustomThreadObject\bin\Debug\net8.0\16_CustomThreadObject.runtimeconfig.json
+C:\CSharp_Learning\CSharp_8_9\16_CustomThreadObject\bin\Debug\net8.0\16_CustomThreadObject.dll
+C:\CSharp_Learning\CSharp_8_9\16_CustomThreadObject\bin\Debug\net8.0\16_CustomThreadObject.pdb
+C:\CSharp_Learning\CSharp_8_9\16_CustomThreadObject\obj\Debug\net8.0\16_CustomThreadObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Learning\CSharp_8_9\16_CustomThreadObject\obj\Debug\net8.0\16_CustomThreadObject.AssemblyInfoInputs.cache
+C:\CSharp_Learning\CSharp_8_9\16_CustomThreadObject\obj\Debug\net8.0\16_CustomThreadObject.AssemblyInfo.cs
+C:\CSharp_Learning\CSharp_8_9\16_CustomThreadObject\obj\Debug\net8.0\16_CustomThreadObject.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_8_9\16_CustomThreadObject\obj\Debug\net8.0\16_CustomThreadObject.sourcelink.json
+C:\CSharp_Learning\CSharp_8_9\16_CustomThreadObject\obj\Debug\net8.0\16_CustomThreadObject.dll
+C:\CSharp_Learning\CSharp_8_9\16_CustomThreadObject\obj\Debug\net8.0\refint\16_CustomThreadObject.dll
+C:\CSharp_Learning\CSharp_8_9\16_CustomThreadObject\obj\Debug\net8.0\16_CustomThreadObject.pdb
+C:\CSharp_Learning\CSharp_8_9\16_CustomThreadObject\obj\Debug\net8.0\16_CustomThreadObject.genruntimeconfig.cache
+C:\CSharp_Learning\CSharp_8_9\16_CustomThreadObject\obj\Debug\net8.0\ref\16_CustomThreadObject.dll

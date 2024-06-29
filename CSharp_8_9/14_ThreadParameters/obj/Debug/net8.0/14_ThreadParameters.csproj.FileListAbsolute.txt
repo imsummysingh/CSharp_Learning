@@ -1,0 +1,15 @@
+C:\CSharp_Learning\CSharp_8_9\14_ThreadParameters\obj\Debug\net8.0\14_ThreadParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Learning\CSharp_8_9\14_ThreadParameters\obj\Debug\net8.0\14_ThreadParameters.AssemblyInfoInputs.cache
+C:\CSharp_Learning\CSharp_8_9\14_ThreadParameters\obj\Debug\net8.0\14_ThreadParameters.AssemblyInfo.cs
+C:\CSharp_Learning\CSharp_8_9\14_ThreadParameters\obj\Debug\net8.0\14_ThreadParameters.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_8_9\14_ThreadParameters\obj\Debug\net8.0\14_ThreadParameters.sourcelink.json
+C:\CSharp_Learning\CSharp_8_9\14_ThreadParameters\bin\Debug\net8.0\14_ThreadParameters.exe
+C:\CSharp_Learning\CSharp_8_9\14_ThreadParameters\bin\Debug\net8.0\14_ThreadParameters.deps.json
+C:\CSharp_Learning\CSharp_8_9\14_ThreadParameters\bin\Debug\net8.0\14_ThreadParameters.runtimeconfig.json
+C:\CSharp_Learning\CSharp_8_9\14_ThreadParameters\bin\Debug\net8.0\14_ThreadParameters.dll
+C:\CSharp_Learning\CSharp_8_9\14_ThreadParameters\bin\Debug\net8.0\14_ThreadParameters.pdb
+C:\CSharp_Learning\CSharp_8_9\14_ThreadParameters\obj\Debug\net8.0\14_ThreadParameters.dll
+C:\CSharp_Learning\CSharp_8_9\14_ThreadParameters\obj\Debug\net8.0\refint\14_ThreadParameters.dll
+C:\CSharp_Learning\CSharp_8_9\14_ThreadParameters\obj\Debug\net8.0\14_ThreadParameters.pdb
+C:\CSharp_Learning\CSharp_8_9\14_ThreadParameters\obj\Debug\net8.0\14_ThreadParameters.genruntimeconfig.cache
+C:\CSharp_Learning\CSharp_8_9\14_ThreadParameters\obj\Debug\net8.0\ref\14_ThreadParameters.dll

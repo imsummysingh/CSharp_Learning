@@ -1,0 +1,15 @@
+C:\CSharp_Learning\CSharp_8_9\15_ParameterizedThreadStart\bin\Debug\net8.0\15_ParameterizedThreadStart.exe
+C:\CSharp_Learning\CSharp_8_9\15_ParameterizedThreadStart\bin\Debug\net8.0\15_ParameterizedThreadStart.deps.json
+C:\CSharp_Learning\CSharp_8_9\15_ParameterizedThreadStart\bin\Debug\net8.0\15_ParameterizedThreadStart.runtimeconfig.json
+C:\CSharp_Learning\CSharp_8_9\15_ParameterizedThreadStart\bin\Debug\net8.0\15_ParameterizedThreadStart.dll
+C:\CSharp_Learning\CSharp_8_9\15_ParameterizedThreadStart\bin\Debug\net8.0\15_ParameterizedThreadStart.pdb
+C:\CSharp_Learning\CSharp_8_9\15_ParameterizedThreadStart\obj\Debug\net8.0\15_ParameterizedThreadStart.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Learning\CSharp_8_9\15_ParameterizedThreadStart\obj\Debug\net8.0\15_ParameterizedThreadStart.AssemblyInfoInputs.cache
+C:\CSharp_Learning\CSharp_8_9\15_ParameterizedThreadStart\obj\Debug\net8.0\15_ParameterizedThreadStart.AssemblyInfo.cs
+C:\CSharp_Learning\CSharp_8_9\15_ParameterizedThreadStart\obj\Debug\net8.0\15_ParameterizedThreadStart.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_8_9\15_ParameterizedThreadStart\obj\Debug\net8.0\15_ParameterizedThreadStart.sourcelink.json
+C:\CSharp_Learning\CSharp_8_9\15_ParameterizedThreadStart\obj\Debug\net8.0\15_ParameterizedThreadStart.dll
+C:\CSharp_Learning\CSharp_8_9\15_ParameterizedThreadStart\obj\Debug\net8.0\refint\15_ParameterizedThreadStart.dll
+C:\CSharp_Learning\CSharp_8_9\15_ParameterizedThreadStart\obj\Debug\net8.0\15_ParameterizedThreadStart.pdb
+C:\CSharp_Learning\CSharp_8_9\15_ParameterizedThreadStart\obj\Debug\net8.0\15_ParameterizedThreadStart.genruntimeconfig.cache
+C:\CSharp_Learning\CSharp_8_9\15_ParameterizedThreadStart\obj\Debug\net8.0\ref\15_ParameterizedThreadStart.dll
