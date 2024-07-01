@@ -1,0 +1,15 @@
+C:\CSharp_Learning\CSharp_8_9\17_CallbackThread\bin\Debug\net8.0\17_CallbackThread.exe
+C:\CSharp_Learning\CSharp_8_9\17_CallbackThread\bin\Debug\net8.0\17_CallbackThread.deps.json
+C:\CSharp_Learning\CSharp_8_9\17_CallbackThread\bin\Debug\net8.0\17_CallbackThread.runtimeconfig.json
+C:\CSharp_Learning\CSharp_8_9\17_CallbackThread\bin\Debug\net8.0\17_CallbackThread.dll
+C:\CSharp_Learning\CSharp_8_9\17_CallbackThread\bin\Debug\net8.0\17_CallbackThread.pdb
+C:\CSharp_Learning\CSharp_8_9\17_CallbackThread\obj\Debug\net8.0\17_CallbackThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_Learning\CSharp_8_9\17_CallbackThread\obj\Debug\net8.0\17_CallbackThread.AssemblyInfoInputs.cache
+C:\CSharp_Learning\CSharp_8_9\17_CallbackThread\obj\Debug\net8.0\17_CallbackThread.AssemblyInfo.cs
+C:\CSharp_Learning\CSharp_8_9\17_CallbackThread\obj\Debug\net8.0\17_CallbackThread.csproj.CoreCompileInputs.cache
+C:\CSharp_Learning\CSharp_8_9\17_CallbackThread\obj\Debug\net8.0\17_CallbackThread.sourcelink.json
+C:\CSharp_Learning\CSharp_8_9\17_CallbackThread\obj\Debug\net8.0\17_CallbackThread.dll
+C:\CSharp_Learning\CSharp_8_9\17_CallbackThread\obj\Debug\net8.0\refint\17_CallbackThread.dll
+C:\CSharp_Learning\CSharp_8_9\17_CallbackThread\obj\Debug\net8.0\17_CallbackThread.pdb
+C:\CSharp_Learning\CSharp_8_9\17_CallbackThread\obj\Debug\net8.0\17_CallbackThread.genruntimeconfig.cache
+C:\CSharp_Learning\CSharp_8_9\17_CallbackThread\obj\Debug\net8.0\ref\17_CallbackThread.dll

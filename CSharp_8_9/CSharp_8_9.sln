@@ -25,15 +25,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_MultiThread", "10_MultiT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11_ThreadJoin", "11_ThreadJoin\11_ThreadJoin.csproj", "{8320A1E6-6203-47DE-BAED-03B3B78135D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12_ThreadPriority", "12_ThreadPriority\12_ThreadPriority.csproj", "{CA0CCF2E-5C4A-48D6-B645-107E1F671C4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12_ThreadPriority", "12_ThreadPriority\12_ThreadPriority.csproj", "{CA0CCF2E-5C4A-48D6-B645-107E1F671C4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_ThreadInterrupt", "13_ThreadInterrupt\13_ThreadInterrupt.csproj", "{BA534442-C3F0-4AFD-9B9A-D0032576D782}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13_ThreadInterrupt", "13_ThreadInterrupt\13_ThreadInterrupt.csproj", "{BA534442-C3F0-4AFD-9B9A-D0032576D782}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_ThreadParameters", "14_ThreadParameters\14_ThreadParameters.csproj", "{C49BE9BF-AB94-490E-93AE-1854832EB2E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14_ThreadParameters", "14_ThreadParameters\14_ThreadParameters.csproj", "{C49BE9BF-AB94-490E-93AE-1854832EB2E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_ParameterizedThreadStart", "15_ParameterizedThreadStart\15_ParameterizedThreadStart.csproj", "{E323D4B7-7E6F-498D-9638-4C291E6776AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15_ParameterizedThreadStart", "15_ParameterizedThreadStart\15_ParameterizedThreadStart.csproj", "{E323D4B7-7E6F-498D-9638-4C291E6776AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16_CustomThreadObject", "16_CustomThreadObject\16_CustomThreadObject.csproj", "{2D0F4F13-C1FD-4B82-B84B-593259A7D393}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16_CustomThreadObject", "16_CustomThreadObject\16_CustomThreadObject.csproj", "{2D0F4F13-C1FD-4B82-B84B-593259A7D393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_CallbackThread", "17_CallbackThread\17_CallbackThread.csproj", "{19547D1D-7DBD-4530-BDBF-3A3034F37CC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{2D0F4F13-C1FD-4B82-B84B-593259A7D393}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D0F4F13-C1FD-4B82-B84B-593259A7D393}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D0F4F13-C1FD-4B82-B84B-593259A7D393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19547D1D-7DBD-4530-BDBF-3A3034F37CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19547D1D-7DBD-4530-BDBF-3A3034F37CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19547D1D-7DBD-4530-BDBF-3A3034F37CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19547D1D-7DBD-4530-BDBF-3A3034F37CC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
