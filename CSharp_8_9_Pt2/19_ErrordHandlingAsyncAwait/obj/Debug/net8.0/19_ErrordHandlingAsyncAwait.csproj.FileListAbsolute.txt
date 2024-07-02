@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CSharp_8_9_Pt2\19_ErrordHandlingAsyncAwait\bin\Debug\net8.0\19_ErrordHandlingAsyncAwait.exe
+C:\Users\User\source\repos\CSharp_8_9_Pt2\19_ErrordHandlingAsyncAwait\bin\Debug\net8.0\19_ErrordHandlingAsyncAwait.deps.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\19_ErrordHandlingAsyncAwait\bin\Debug\net8.0\19_ErrordHandlingAsyncAwait.runtimeconfig.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\19_ErrordHandlingAsyncAwait\bin\Debug\net8.0\19_ErrordHandlingAsyncAwait.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\19_ErrordHandlingAsyncAwait\bin\Debug\net8.0\19_ErrordHandlingAsyncAwait.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\19_ErrordHandlingAsyncAwait\obj\Debug\net8.0\19_ErrordHandlingAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharp_8_9_Pt2\19_ErrordHandlingAsyncAwait\obj\Debug\net8.0\19_ErrordHandlingAsyncAwait.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\19_ErrordHandlingAsyncAwait\obj\Debug\net8.0\19_ErrordHandlingAsyncAwait.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharp_8_9_Pt2\19_ErrordHandlingAsyncAwait\obj\Debug\net8.0\19_ErrordHandlingAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\19_ErrordHandlingAsyncAwait\obj\Debug\net8.0\19_ErrordHandlingAsyncAwait.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\19_ErrordHandlingAsyncAwait\obj\Debug\net8.0\refint\19_ErrordHandlingAsyncAwait.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\19_ErrordHandlingAsyncAwait\obj\Debug\net8.0\19_ErrordHandlingAsyncAwait.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\19_ErrordHandlingAsyncAwait\obj\Debug\net8.0\19_ErrordHandlingAsyncAwait.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\19_ErrordHandlingAsyncAwait\obj\Debug\net8.0\ref\19_ErrordHandlingAsyncAwait.dll

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CSharp_8_9_Pt2\13_TaskCancellation\bin\Debug\net8.0\14_TaskCancellation.exe
+C:\Users\User\source\repos\CSharp_8_9_Pt2\13_TaskCancellation\bin\Debug\net8.0\14_TaskCancellation.deps.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\13_TaskCancellation\bin\Debug\net8.0\14_TaskCancellation.runtimeconfig.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\13_TaskCancellation\bin\Debug\net8.0\14_TaskCancellation.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\13_TaskCancellation\bin\Debug\net8.0\14_TaskCancellation.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\13_TaskCancellation\obj\Debug\net8.0\14_TaskCancellation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharp_8_9_Pt2\13_TaskCancellation\obj\Debug\net8.0\14_TaskCancellation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\13_TaskCancellation\obj\Debug\net8.0\14_TaskCancellation.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharp_8_9_Pt2\13_TaskCancellation\obj\Debug\net8.0\14_TaskCancellation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\13_TaskCancellation\obj\Debug\net8.0\14_TaskCancellation.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\13_TaskCancellation\obj\Debug\net8.0\refint\14_TaskCancellation.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\13_TaskCancellation\obj\Debug\net8.0\14_TaskCancellation.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\13_TaskCancellation\obj\Debug\net8.0\14_TaskCancellation.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\13_TaskCancellation\obj\Debug\net8.0\ref\14_TaskCancellation.dll

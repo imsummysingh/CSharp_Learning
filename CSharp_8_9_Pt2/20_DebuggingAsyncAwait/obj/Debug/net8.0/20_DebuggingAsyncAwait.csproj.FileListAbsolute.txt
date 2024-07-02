@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CSharp_8_9_Pt2\20_DebuggingAsyncAwait\bin\Debug\net8.0\20_DebuggingAsyncAwait.exe
+C:\Users\User\source\repos\CSharp_8_9_Pt2\20_DebuggingAsyncAwait\bin\Debug\net8.0\20_DebuggingAsyncAwait.deps.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\20_DebuggingAsyncAwait\bin\Debug\net8.0\20_DebuggingAsyncAwait.runtimeconfig.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\20_DebuggingAsyncAwait\bin\Debug\net8.0\20_DebuggingAsyncAwait.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\20_DebuggingAsyncAwait\bin\Debug\net8.0\20_DebuggingAsyncAwait.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\20_DebuggingAsyncAwait\obj\Debug\net8.0\20_DebuggingAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharp_8_9_Pt2\20_DebuggingAsyncAwait\obj\Debug\net8.0\20_DebuggingAsyncAwait.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\20_DebuggingAsyncAwait\obj\Debug\net8.0\20_DebuggingAsyncAwait.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharp_8_9_Pt2\20_DebuggingAsyncAwait\obj\Debug\net8.0\20_DebuggingAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\20_DebuggingAsyncAwait\obj\Debug\net8.0\20_DebuggingAsyncAwait.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\20_DebuggingAsyncAwait\obj\Debug\net8.0\refint\20_DebuggingAsyncAwait.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\20_DebuggingAsyncAwait\obj\Debug\net8.0\20_DebuggingAsyncAwait.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\20_DebuggingAsyncAwait\obj\Debug\net8.0\20_DebuggingAsyncAwait.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\20_DebuggingAsyncAwait\obj\Debug\net8.0\ref\20_DebuggingAsyncAwait.dll

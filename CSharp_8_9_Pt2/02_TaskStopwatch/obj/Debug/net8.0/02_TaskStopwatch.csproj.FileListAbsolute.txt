@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CSharp_8_9_Pt2\02_TaskStopwatch\bin\Debug\net8.0\02_TaskStopwatch.exe
+C:\Users\User\source\repos\CSharp_8_9_Pt2\02_TaskStopwatch\bin\Debug\net8.0\02_TaskStopwatch.deps.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\02_TaskStopwatch\bin\Debug\net8.0\02_TaskStopwatch.runtimeconfig.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\02_TaskStopwatch\bin\Debug\net8.0\02_TaskStopwatch.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\02_TaskStopwatch\bin\Debug\net8.0\02_TaskStopwatch.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\02_TaskStopwatch\obj\Debug\net8.0\02_TaskStopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharp_8_9_Pt2\02_TaskStopwatch\obj\Debug\net8.0\02_TaskStopwatch.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\02_TaskStopwatch\obj\Debug\net8.0\02_TaskStopwatch.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharp_8_9_Pt2\02_TaskStopwatch\obj\Debug\net8.0\02_TaskStopwatch.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\02_TaskStopwatch\obj\Debug\net8.0\02_TaskStopwatch.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\02_TaskStopwatch\obj\Debug\net8.0\refint\02_TaskStopwatch.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\02_TaskStopwatch\obj\Debug\net8.0\02_TaskStopwatch.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\02_TaskStopwatch\obj\Debug\net8.0\02_TaskStopwatch.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\02_TaskStopwatch\obj\Debug\net8.0\ref\02_TaskStopwatch.dll

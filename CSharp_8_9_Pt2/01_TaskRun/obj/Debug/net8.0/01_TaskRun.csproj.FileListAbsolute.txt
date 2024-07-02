@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CSharp_8_9_Pt2\01_TaskRun\bin\Debug\net8.0\01_TaskRun.exe
+C:\Users\User\source\repos\CSharp_8_9_Pt2\01_TaskRun\bin\Debug\net8.0\01_TaskRun.deps.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\01_TaskRun\bin\Debug\net8.0\01_TaskRun.runtimeconfig.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\01_TaskRun\bin\Debug\net8.0\01_TaskRun.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\01_TaskRun\bin\Debug\net8.0\01_TaskRun.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\01_TaskRun\obj\Debug\net8.0\01_TaskRun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharp_8_9_Pt2\01_TaskRun\obj\Debug\net8.0\01_TaskRun.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\01_TaskRun\obj\Debug\net8.0\01_TaskRun.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharp_8_9_Pt2\01_TaskRun\obj\Debug\net8.0\01_TaskRun.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\01_TaskRun\obj\Debug\net8.0\01_TaskRun.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\01_TaskRun\obj\Debug\net8.0\refint\01_TaskRun.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\01_TaskRun\obj\Debug\net8.0\01_TaskRun.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\01_TaskRun\obj\Debug\net8.0\01_TaskRun.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\01_TaskRun\obj\Debug\net8.0\ref\01_TaskRun.dll

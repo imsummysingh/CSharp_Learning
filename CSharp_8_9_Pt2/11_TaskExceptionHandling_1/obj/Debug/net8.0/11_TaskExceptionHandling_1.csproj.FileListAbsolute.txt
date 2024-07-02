@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CSharp_8_9_Pt2\11_TaskExceptionHandling_1\bin\Debug\net8.0\11_TaskExceptionHandling_1.exe
+C:\Users\User\source\repos\CSharp_8_9_Pt2\11_TaskExceptionHandling_1\bin\Debug\net8.0\11_TaskExceptionHandling_1.deps.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\11_TaskExceptionHandling_1\bin\Debug\net8.0\11_TaskExceptionHandling_1.runtimeconfig.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\11_TaskExceptionHandling_1\bin\Debug\net8.0\11_TaskExceptionHandling_1.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\11_TaskExceptionHandling_1\bin\Debug\net8.0\11_TaskExceptionHandling_1.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\11_TaskExceptionHandling_1\obj\Debug\net8.0\11_TaskExceptionHandling_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharp_8_9_Pt2\11_TaskExceptionHandling_1\obj\Debug\net8.0\11_TaskExceptionHandling_1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\11_TaskExceptionHandling_1\obj\Debug\net8.0\11_TaskExceptionHandling_1.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharp_8_9_Pt2\11_TaskExceptionHandling_1\obj\Debug\net8.0\11_TaskExceptionHandling_1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\11_TaskExceptionHandling_1\obj\Debug\net8.0\11_TaskExceptionHandling_1.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\11_TaskExceptionHandling_1\obj\Debug\net8.0\refint\11_TaskExceptionHandling_1.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\11_TaskExceptionHandling_1\obj\Debug\net8.0\11_TaskExceptionHandling_1.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\11_TaskExceptionHandling_1\obj\Debug\net8.0\11_TaskExceptionHandling_1.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\11_TaskExceptionHandling_1\obj\Debug\net8.0\ref\11_TaskExceptionHandling_1.dll

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CSharp_8_9_Pt2\12_TaskContinuationChain\bin\Debug\net8.0\13_TaskContinuationChain.exe
+C:\Users\User\source\repos\CSharp_8_9_Pt2\12_TaskContinuationChain\bin\Debug\net8.0\13_TaskContinuationChain.deps.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\12_TaskContinuationChain\bin\Debug\net8.0\13_TaskContinuationChain.runtimeconfig.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\12_TaskContinuationChain\bin\Debug\net8.0\13_TaskContinuationChain.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\12_TaskContinuationChain\bin\Debug\net8.0\13_TaskContinuationChain.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\12_TaskContinuationChain\obj\Debug\net8.0\13_TaskContinuationChain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharp_8_9_Pt2\12_TaskContinuationChain\obj\Debug\net8.0\13_TaskContinuationChain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\12_TaskContinuationChain\obj\Debug\net8.0\13_TaskContinuationChain.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharp_8_9_Pt2\12_TaskContinuationChain\obj\Debug\net8.0\13_TaskContinuationChain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\12_TaskContinuationChain\obj\Debug\net8.0\13_TaskContinuationChain.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\12_TaskContinuationChain\obj\Debug\net8.0\refint\13_TaskContinuationChain.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\12_TaskContinuationChain\obj\Debug\net8.0\13_TaskContinuationChain.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\12_TaskContinuationChain\obj\Debug\net8.0\13_TaskContinuationChain.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\12_TaskContinuationChain\obj\Debug\net8.0\ref\13_TaskContinuationChain.dll

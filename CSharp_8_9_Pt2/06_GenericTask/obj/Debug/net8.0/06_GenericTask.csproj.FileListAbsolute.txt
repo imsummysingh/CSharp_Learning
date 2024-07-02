@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CSharp_8_9_Pt2\06_GenericTask\bin\Debug\net8.0\06_GenericTask.exe
+C:\Users\User\source\repos\CSharp_8_9_Pt2\06_GenericTask\bin\Debug\net8.0\06_GenericTask.deps.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\06_GenericTask\bin\Debug\net8.0\06_GenericTask.runtimeconfig.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\06_GenericTask\bin\Debug\net8.0\06_GenericTask.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\06_GenericTask\bin\Debug\net8.0\06_GenericTask.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\06_GenericTask\obj\Debug\net8.0\06_GenericTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharp_8_9_Pt2\06_GenericTask\obj\Debug\net8.0\06_GenericTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\06_GenericTask\obj\Debug\net8.0\06_GenericTask.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharp_8_9_Pt2\06_GenericTask\obj\Debug\net8.0\06_GenericTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\06_GenericTask\obj\Debug\net8.0\06_GenericTask.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\06_GenericTask\obj\Debug\net8.0\refint\06_GenericTask.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\06_GenericTask\obj\Debug\net8.0\06_GenericTask.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\06_GenericTask\obj\Debug\net8.0\06_GenericTask.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\06_GenericTask\obj\Debug\net8.0\ref\06_GenericTask.dll

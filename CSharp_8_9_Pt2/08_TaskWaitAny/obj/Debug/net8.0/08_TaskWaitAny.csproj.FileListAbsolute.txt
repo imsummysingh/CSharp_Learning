@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CSharp_8_9_Pt2\08_TaskWaitAny\bin\Debug\net8.0\08_TaskWaitAny.exe
+C:\Users\User\source\repos\CSharp_8_9_Pt2\08_TaskWaitAny\bin\Debug\net8.0\08_TaskWaitAny.deps.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\08_TaskWaitAny\bin\Debug\net8.0\08_TaskWaitAny.runtimeconfig.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\08_TaskWaitAny\bin\Debug\net8.0\08_TaskWaitAny.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\08_TaskWaitAny\bin\Debug\net8.0\08_TaskWaitAny.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\08_TaskWaitAny\obj\Debug\net8.0\08_TaskWaitAny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharp_8_9_Pt2\08_TaskWaitAny\obj\Debug\net8.0\08_TaskWaitAny.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\08_TaskWaitAny\obj\Debug\net8.0\08_TaskWaitAny.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharp_8_9_Pt2\08_TaskWaitAny\obj\Debug\net8.0\08_TaskWaitAny.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\08_TaskWaitAny\obj\Debug\net8.0\08_TaskWaitAny.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\08_TaskWaitAny\obj\Debug\net8.0\refint\08_TaskWaitAny.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\08_TaskWaitAny\obj\Debug\net8.0\08_TaskWaitAny.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\08_TaskWaitAny\obj\Debug\net8.0\08_TaskWaitAny.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\08_TaskWaitAny\obj\Debug\net8.0\ref\08_TaskWaitAny.dll

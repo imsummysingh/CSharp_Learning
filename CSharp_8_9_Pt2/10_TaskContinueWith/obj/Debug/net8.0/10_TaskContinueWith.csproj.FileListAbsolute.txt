@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CSharp_8_9_Pt2\10_TaskContinueWith\bin\Debug\net8.0\10_TaskContinueWith.exe
+C:\Users\User\source\repos\CSharp_8_9_Pt2\10_TaskContinueWith\bin\Debug\net8.0\10_TaskContinueWith.deps.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\10_TaskContinueWith\bin\Debug\net8.0\10_TaskContinueWith.runtimeconfig.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\10_TaskContinueWith\bin\Debug\net8.0\10_TaskContinueWith.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\10_TaskContinueWith\bin\Debug\net8.0\10_TaskContinueWith.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\10_TaskContinueWith\obj\Debug\net8.0\10_TaskContinueWith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharp_8_9_Pt2\10_TaskContinueWith\obj\Debug\net8.0\10_TaskContinueWith.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\10_TaskContinueWith\obj\Debug\net8.0\10_TaskContinueWith.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharp_8_9_Pt2\10_TaskContinueWith\obj\Debug\net8.0\10_TaskContinueWith.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\10_TaskContinueWith\obj\Debug\net8.0\10_TaskContinueWith.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\10_TaskContinueWith\obj\Debug\net8.0\refint\10_TaskContinueWith.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\10_TaskContinueWith\obj\Debug\net8.0\10_TaskContinueWith.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\10_TaskContinueWith\obj\Debug\net8.0\10_TaskContinueWith.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\10_TaskContinueWith\obj\Debug\net8.0\ref\10_TaskContinueWith.dll

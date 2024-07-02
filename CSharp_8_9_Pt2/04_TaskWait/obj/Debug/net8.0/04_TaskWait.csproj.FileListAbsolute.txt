@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CSharp_8_9_Pt2\04_TaskWait\bin\Debug\net8.0\04_TaskWait.exe
+C:\Users\User\source\repos\CSharp_8_9_Pt2\04_TaskWait\bin\Debug\net8.0\04_TaskWait.deps.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\04_TaskWait\bin\Debug\net8.0\04_TaskWait.runtimeconfig.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\04_TaskWait\bin\Debug\net8.0\04_TaskWait.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\04_TaskWait\bin\Debug\net8.0\04_TaskWait.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\04_TaskWait\obj\Debug\net8.0\04_TaskWait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharp_8_9_Pt2\04_TaskWait\obj\Debug\net8.0\04_TaskWait.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\04_TaskWait\obj\Debug\net8.0\04_TaskWait.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharp_8_9_Pt2\04_TaskWait\obj\Debug\net8.0\04_TaskWait.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\04_TaskWait\obj\Debug\net8.0\04_TaskWait.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\04_TaskWait\obj\Debug\net8.0\refint\04_TaskWait.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\04_TaskWait\obj\Debug\net8.0\04_TaskWait.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\04_TaskWait\obj\Debug\net8.0\04_TaskWait.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\04_TaskWait\obj\Debug\net8.0\ref\04_TaskWait.dll

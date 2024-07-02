@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CSharp_8_9_Pt2\07_ReturnComplexTypeTask\bin\Debug\net8.0\07_ReturnComplexTypeTask.exe
+C:\Users\User\source\repos\CSharp_8_9_Pt2\07_ReturnComplexTypeTask\bin\Debug\net8.0\07_ReturnComplexTypeTask.deps.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\07_ReturnComplexTypeTask\bin\Debug\net8.0\07_ReturnComplexTypeTask.runtimeconfig.json
+C:\Users\User\source\repos\CSharp_8_9_Pt2\07_ReturnComplexTypeTask\bin\Debug\net8.0\07_ReturnComplexTypeTask.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\07_ReturnComplexTypeTask\bin\Debug\net8.0\07_ReturnComplexTypeTask.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\07_ReturnComplexTypeTask\obj\Debug\net8.0\07_ReturnComplexTypeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharp_8_9_Pt2\07_ReturnComplexTypeTask\obj\Debug\net8.0\07_ReturnComplexTypeTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\07_ReturnComplexTypeTask\obj\Debug\net8.0\07_ReturnComplexTypeTask.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharp_8_9_Pt2\07_ReturnComplexTypeTask\obj\Debug\net8.0\07_ReturnComplexTypeTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\07_ReturnComplexTypeTask\obj\Debug\net8.0\07_ReturnComplexTypeTask.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\07_ReturnComplexTypeTask\obj\Debug\net8.0\refint\07_ReturnComplexTypeTask.dll
+C:\Users\User\source\repos\CSharp_8_9_Pt2\07_ReturnComplexTypeTask\obj\Debug\net8.0\07_ReturnComplexTypeTask.pdb
+C:\Users\User\source\repos\CSharp_8_9_Pt2\07_ReturnComplexTypeTask\obj\Debug\net8.0\07_ReturnComplexTypeTask.genruntimeconfig.cache
+C:\Users\User\source\repos\CSharp_8_9_Pt2\07_ReturnComplexTypeTask\obj\Debug\net8.0\ref\07_ReturnComplexTypeTask.dll
